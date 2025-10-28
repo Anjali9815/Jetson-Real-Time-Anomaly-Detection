@@ -1,0 +1,1990 @@
+2025-10-28 08:42:57,279 INFO Logging to /jetson-inference/data/assignment/detections_delay.log
+2025-10-28 08:43:03,394 INFO Input=v4l2:///dev/video0 Output=display://0 Anomalies=['laptop', 'person'] MaxPersons=None Cooldown=10.0s per_reason=False
+2025-10-28 08:43:06,558 INFO Normal : keyboard (96.3%)
+2025-10-28 08:43:06,602 INFO Normal : keyboard (96.7%)
+2025-10-28 08:43:06,632 INFO Normal : keyboard (97.5%)
+2025-10-28 08:43:06,709 INFO Normal : keyboard (97.1%)
+2025-10-28 08:43:06,764 INFO Normal : keyboard (96.6%)
+2025-10-28 08:43:06,838 INFO Normal : keyboard (96.7%)
+2025-10-28 08:43:06,904 INFO Normal : keyboard (96.2%)
+2025-10-28 08:43:06,968 INFO Normal : keyboard (96.6%)
+2025-10-28 08:43:07,035 INFO Normal : keyboard (96.9%)
+2025-10-28 08:43:07,096 INFO Normal : keyboard (97.4%)
+2025-10-28 08:43:07,168 INFO Normal : keyboard (97.4%)
+2025-10-28 08:43:07,230 INFO Normal : keyboard (97.3%)
+2025-10-28 08:43:07,301 INFO Normal : keyboard (97.4%)
+2025-10-28 08:43:07,368 INFO Normal : keyboard (97.7%)
+2025-10-28 08:43:07,431 INFO Normal : keyboard (96.9%)
+2025-10-28 08:43:07,499 INFO Normal : keyboard (97.3%)
+2025-10-28 08:43:07,564 INFO Normal : keyboard (98.4%)
+2025-10-28 08:43:07,632 INFO Normal : keyboard (97.4%)
+2025-10-28 08:43:07,700 INFO Normal : keyboard (98.1%)
+2025-10-28 08:43:07,764 INFO Normal : keyboard (97.2%)
+2025-10-28 08:43:07,832 INFO Normal : keyboard (98.6%)
+2025-10-28 08:43:07,896 INFO Normal : keyboard (97.0%)
+2025-10-28 08:43:07,964 INFO Normal : keyboard (97.1%)
+2025-10-28 08:43:08,032 INFO Normal : keyboard (96.4%)
+2025-10-28 08:43:08,095 INFO Normal : keyboard (94.4%)
+2025-10-28 08:43:08,163 INFO Normal : keyboard (88.4%)
+2025-10-28 08:43:08,228 INFO Normal : keyboard (97.5%)
+2025-10-28 08:43:08,296 INFO Normal : keyboard (97.3%)
+2025-10-28 08:43:08,365 INFO Normal : keyboard (97.2%)
+2025-10-28 08:43:08,429 INFO Normal : keyboard (96.8%)
+2025-10-28 08:43:08,497 INFO Normal : keyboard (97.8%)
+2025-10-28 08:43:08,560 INFO Normal : keyboard (98.5%)
+2025-10-28 08:43:08,626 INFO Normal : keyboard (98.5%)
+2025-10-28 08:43:08,692 INFO Normal : keyboard (97.9%)
+2025-10-28 08:43:08,760 INFO Normal : keyboard (94.8%)
+2025-10-28 08:43:08,828 INFO Normal : keyboard (95.6%)
+2025-10-28 08:43:08,892 INFO Normal : keyboard (96.8%)
+2025-10-28 08:43:08,960 INFO Normal : keyboard (96.5%)
+2025-10-28 08:43:09,024 INFO Normal : keyboard (93.9%)
+2025-10-28 08:43:09,093 INFO Normal : keyboard (91.2%)
+2025-10-28 08:43:09,161 INFO Normal : keyboard (91.5%)
+2025-10-28 08:43:09,224 INFO Normal : keyboard (95.4%)
+2025-10-28 08:43:09,292 INFO Normal : keyboard (94.5%)
+2025-10-28 08:43:09,357 INFO Normal : keyboard (95.9%)
+2025-10-28 08:43:09,425 INFO Normal : keyboard (95.1%)
+2025-10-28 08:43:09,494 INFO Normal : keyboard (95.9%)
+2025-10-28 08:43:09,555 INFO Normal : keyboard (95.8%)
+2025-10-28 08:43:09,626 INFO Normal : keyboard (93.9%)
+2025-10-28 08:43:09,690 INFO Normal : keyboard (93.9%)
+2025-10-28 08:43:09,758 INFO Normal : keyboard (95.6%)
+2025-10-28 08:43:09,825 INFO Normal : keyboard (95.3%)
+2025-10-28 08:43:09,889 INFO Normal : keyboard (97.4%)
+2025-10-28 08:43:09,956 INFO Normal : keyboard (97.3%)
+2025-10-28 08:43:10,020 INFO Normal : keyboard (98.6%)
+2025-10-28 08:43:10,088 INFO Normal : keyboard (96.4%)
+2025-10-28 08:43:10,155 INFO Normal : keyboard (97.8%)
+2025-10-28 08:43:10,222 INFO Normal : keyboard (98.2%)
+2025-10-28 08:43:10,290 INFO Normal : keyboard (98.2%)
+2025-10-28 08:43:10,354 INFO Normal : keyboard (97.9%)
+2025-10-28 08:43:10,422 INFO Normal : keyboard (97.8%)
+2025-10-28 08:43:10,489 INFO Normal : keyboard (97.9%)
+2025-10-28 08:43:10,554 INFO Normal : keyboard (97.7%)
+2025-10-28 08:43:10,624 INFO Normal : keyboard (97.3%)
+2025-10-28 08:43:10,686 INFO Normal : keyboard (95.7%)
+2025-10-28 08:43:10,754 INFO Normal : keyboard (95.8%)
+2025-10-28 08:43:10,817 INFO Normal : keyboard (95.9%)
+2025-10-28 08:43:10,887 INFO Normal : keyboard (95.1%)
+2025-10-28 08:43:10,954 INFO Normal : keyboard (94.9%)
+2025-10-28 08:43:11,018 INFO Normal : keyboard (94.7%)
+2025-10-28 08:43:11,086 INFO Normal : keyboard (95.1%)
+2025-10-28 08:43:11,151 INFO Normal : keyboard (95.9%)
+2025-10-28 08:43:11,218 INFO Normal : keyboard (95.7%)
+2025-10-28 08:43:11,285 INFO Normal : keyboard (95.6%)
+2025-10-28 08:43:11,548 INFO ANOMALY: laptop (68.0%)
+2025-10-28 08:43:11,548 INFO Normal : keyboard (78.7%)
+2025-10-28 08:43:11,688 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084311.jpg
+2025-10-28 08:43:11,704 INFO Normal : book (52.1%)
+2025-10-28 08:43:11,808 INFO Normal : book (88.6%)
+2025-10-28 08:43:11,808 INFO ANOMALY: laptop (78.0%)
+2025-10-28 08:43:11,808 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.7s
+2025-10-28 08:43:11,948 INFO Normal : tv (59.1%)
+2025-10-28 08:43:11,949 INFO ANOMALY: laptop (84.0%)
+2025-10-28 08:43:11,949 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.6s
+2025-10-28 08:43:12,012 INFO Normal : tv (58.2%)
+2025-10-28 08:43:12,081 INFO Normal : tv (97.4%)
+2025-10-28 08:43:12,145 INFO Normal : tv (97.4%)
+2025-10-28 08:43:12,212 INFO Normal : tv (97.0%)
+2025-10-28 08:43:12,280 INFO Normal : tv (97.8%)
+2025-10-28 08:43:12,345 INFO Normal : tv (97.4%)
+2025-10-28 08:43:12,413 INFO Normal : tv (99.1%)
+2025-10-28 08:43:12,455 INFO Normal : tv (98.0%)
+2025-10-28 08:43:12,497 INFO Normal : tv (95.6%)
+2025-10-28 08:43:12,542 INFO Normal : tv (95.8%)
+2025-10-28 08:43:12,577 INFO Normal : tv (97.2%)
+2025-10-28 08:43:12,623 INFO Normal : tv (98.6%)
+2025-10-28 08:43:12,665 INFO Normal : tv (98.0%)
+2025-10-28 08:43:12,702 INFO Normal : tv (98.8%)
+2025-10-28 08:43:12,741 INFO Normal : tv (97.5%)
+2025-10-28 08:43:12,785 INFO Normal : tv (98.3%)
+2025-10-28 08:43:12,829 INFO Normal : tv (98.9%)
+2025-10-28 08:43:12,868 INFO Normal : tv (98.8%)
+2025-10-28 08:43:12,913 INFO Normal : tv (97.9%)
+2025-10-28 08:43:12,952 INFO Normal : tv (98.5%)
+2025-10-28 08:43:12,991 INFO Normal : tv (98.3%)
+2025-10-28 08:43:13,034 INFO Normal : tv (96.4%)
+2025-10-28 08:43:13,076 INFO Normal : tv (97.3%)
+2025-10-28 08:43:13,115 INFO Normal : tv (97.6%)
+2025-10-28 08:43:13,163 INFO Normal : tv (97.2%)
+2025-10-28 08:43:13,198 INFO Normal : tv (97.0%)
+2025-10-28 08:43:13,240 INFO Normal : tv (95.6%)
+2025-10-28 08:43:13,287 INFO Normal : tv (89.6%)
+2025-10-28 08:43:13,324 INFO Normal : tv (88.0%)
+2025-10-28 08:43:13,375 INFO Normal : tv (90.9%)
+2025-10-28 08:43:13,411 INFO Normal : tv (96.8%)
+2025-10-28 08:43:13,447 INFO Normal : tv (99.0%)
+2025-10-28 08:43:13,494 INFO Normal : tv (98.2%)
+2025-10-28 08:43:13,535 INFO Normal : tv (97.3%)
+2025-10-28 08:43:13,574 INFO Normal : tv (95.6%)
+2025-10-28 08:43:13,623 INFO Normal : tv (97.5%)
+2025-10-28 08:43:13,661 INFO Normal : tv (97.5%)
+2025-10-28 08:43:13,704 INFO Normal : tv (97.5%)
+2025-10-28 08:43:13,745 INFO Normal : tv (96.7%)
+2025-10-28 08:43:13,782 INFO Normal : tv (95.3%)
+2025-10-28 08:43:13,826 INFO Normal : tv (95.3%)
+2025-10-28 08:43:13,868 INFO Normal : tv (95.5%)
+2025-10-28 08:43:13,909 INFO Normal : tv (88.6%)
+2025-10-28 08:43:13,948 INFO Normal : tv (94.7%)
+2025-10-28 08:43:13,987 INFO Normal : tv (97.2%)
+2025-10-28 08:43:14,031 INFO Normal : tv (96.9%)
+2025-10-28 08:43:14,073 INFO Normal : tv (95.8%)
+2025-10-28 08:43:14,110 INFO Normal : tv (97.4%)
+2025-10-28 08:43:14,158 INFO Normal : tv (96.5%)
+2025-10-28 08:43:14,196 INFO Normal : tv (90.1%)
+2025-10-28 08:43:14,242 INFO Normal : tv (81.8%)
+2025-10-28 08:43:14,284 INFO Normal : tv (83.4%)
+2025-10-28 08:43:14,323 INFO Normal : tv (72.0%)
+2025-10-28 08:43:14,324 INFO ANOMALY: laptop (60.9%)
+2025-10-28 08:43:14,324 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.2s
+2025-10-28 08:43:14,369 INFO Normal : tv (90.6%)
+2025-10-28 08:43:14,405 INFO Normal : tv (92.5%)
+2025-10-28 08:43:14,451 INFO Normal : tv (89.1%)
+2025-10-28 08:43:14,494 INFO Normal : tv (71.9%)
+2025-10-28 08:43:14,495 INFO ANOMALY: laptop (92.6%)
+2025-10-28 08:43:14,495 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.1s
+2025-10-28 08:43:14,692 INFO Normal : bicycle (52.8%)
+2025-10-28 08:43:14,737 INFO Normal : bicycle (55.7%)
+2025-10-28 08:43:14,780 INFO Normal : bicycle (94.5%)
+2025-10-28 08:43:14,862 INFO Normal : bicycle (70.7%)
+2025-10-28 08:43:15,070 INFO Normal : tv (55.6%)
+2025-10-28 08:43:15,275 INFO Normal : scissors (55.3%)
+2025-10-28 08:43:18,930 INFO Normal : cat (51.6%)
+2025-10-28 08:43:19,432 INFO Normal : cell phone (55.1%)
+2025-10-28 08:43:20,590 INFO Normal : skateboard (51.3%)
+2025-10-28 08:43:20,638 INFO Normal : knife (65.5%)
+2025-10-28 08:43:20,678 INFO Normal : knife (65.2%)
+2025-10-28 08:43:20,715 INFO Normal : knife (80.8%)
+2025-10-28 08:43:20,758 INFO Normal : knife (59.5%)
+2025-10-28 08:43:21,388 INFO Normal : knife (66.3%)
+2025-10-28 08:43:21,426 INFO Normal : knife (52.8%)
+2025-10-28 08:43:22,173 INFO Normal : skateboard (60.2%)
+2025-10-28 08:43:23,251 INFO Normal : cell phone (69.1%)
+2025-10-28 08:43:23,626 INFO Normal : skateboard (67.2%)
+2025-10-28 08:43:23,664 INFO Normal : cell phone (82.6%)
+2025-10-28 08:43:23,706 INFO Normal : suitcase (70.3%)
+2025-10-28 08:43:23,749 INFO Normal : cell phone (95.8%)
+2025-10-28 08:43:23,791 INFO Normal : suitcase (50.8%)
+2025-10-28 08:43:23,874 INFO Normal : suitcase (63.8%)
+2025-10-28 08:43:23,913 INFO Normal : suitcase (76.4%)
+2025-10-28 08:43:23,914 INFO Normal : car (56.5%)
+2025-10-28 08:43:24,208 INFO Normal : suitcase (59.6%)
+2025-10-28 08:43:24,249 INFO Normal : suitcase (65.9%)
+2025-10-28 08:43:24,250 INFO Normal : suitcase (85.4%)
+2025-10-28 08:43:24,291 INFO Normal : suitcase (69.9%)
+2025-10-28 08:43:24,333 INFO Normal : suitcase (87.9%)
+2025-10-28 08:43:24,377 INFO Normal : suitcase (87.4%)
+2025-10-28 08:43:24,418 INFO Normal : suitcase (96.6%)
+2025-10-28 08:43:24,496 INFO Normal : remote (90.2%)
+2025-10-28 08:43:24,540 INFO Normal : cell phone (62.1%)
+2025-10-28 08:43:24,540 INFO Normal : cell phone (51.4%)
+2025-10-28 08:43:24,749 INFO Normal : remote (62.5%)
+2025-10-28 08:43:25,365 INFO ANOMALY: person (56.5%)
+2025-10-28 08:43:25,489 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084325.jpg
+2025-10-28 08:43:25,499 INFO ANOMALY: person (62.9%)
+2025-10-28 08:43:25,499 INFO Cooldown skip: reason='Detected: person', wait_global=9.9s
+2025-10-28 08:43:26,963 INFO Normal : mouse (50.7%)
+2025-10-28 08:43:27,027 INFO Normal : tie (70.6%)
+2025-10-28 08:43:27,094 INFO ANOMALY: person (66.3%)
+2025-10-28 08:43:27,094 INFO Normal : tie (82.0%)
+2025-10-28 08:43:27,095 INFO Cooldown skip: reason='Detected: person', wait_global=8.3s
+2025-10-28 08:43:27,159 INFO ANOMALY: person (73.6%)
+2025-10-28 08:43:27,159 INFO Cooldown skip: reason='Detected: person', wait_global=8.2s
+2025-10-28 08:43:27,227 INFO ANOMALY: person (82.3%)
+2025-10-28 08:43:27,227 INFO Cooldown skip: reason='Detected: person', wait_global=8.1s
+2025-10-28 08:43:27,295 INFO Normal : book (83.0%)
+2025-10-28 08:43:27,360 INFO Normal : book (56.9%)
+2025-10-28 08:43:28,023 INFO ANOMALY: person (83.1%)
+2025-10-28 08:43:28,024 INFO Cooldown skip: reason='Detected: person', wait_global=7.3s
+2025-10-28 08:43:28,089 INFO Normal : toothbrush (50.6%)
+2025-10-28 08:43:28,624 INFO Normal : cat (51.6%)
+2025-10-28 08:43:28,953 INFO ANOMALY: person (51.6%)
+2025-10-28 08:43:28,953 INFO Cooldown skip: reason='Detected: person', wait_global=6.4s
+2025-10-28 08:43:29,152 INFO Normal : bed (54.7%)
+2025-10-28 08:43:29,153 INFO Normal : remote (63.5%)
+2025-10-28 08:43:29,220 INFO Normal : dog (57.9%)
+2025-10-28 08:43:29,221 INFO Normal : cat (55.8%)
+2025-10-28 08:43:29,284 INFO Normal : remote (76.4%)
+2025-10-28 08:43:29,352 INFO Normal : remote (64.1%)
+2025-10-28 08:43:29,353 INFO Normal : mouse (51.6%)
+2025-10-28 08:43:29,485 INFO Normal : book (69.0%)
+2025-10-28 08:43:29,553 INFO Normal : book (93.8%)
+2025-10-28 08:43:29,617 INFO Normal : remote (72.7%)
+2025-10-28 08:43:29,817 INFO Normal : remote (88.1%)
+2025-10-28 08:43:29,817 INFO Normal : mouse (50.2%)
+2025-10-28 08:43:29,885 INFO Normal : book (76.9%)
+2025-10-28 08:43:29,949 INFO Normal : remote (50.5%)
+2025-10-28 08:43:30,018 INFO Normal : book (85.1%)
+2025-10-28 08:43:30,086 INFO Normal : book (94.1%)
+2025-10-28 08:43:30,150 INFO Normal : book (68.4%)
+2025-10-28 08:43:30,218 INFO Normal : book (84.2%)
+2025-10-28 08:43:30,282 INFO Normal : suitcase (67.5%)
+2025-10-28 08:43:30,283 INFO Normal : book (73.2%)
+2025-10-28 08:43:30,350 INFO Normal : book (87.7%)
+2025-10-28 08:43:30,418 INFO Normal : book (94.3%)
+2025-10-28 08:43:30,482 INFO Normal : book (78.3%)
+2025-10-28 08:43:30,614 INFO Normal : book (86.3%)
+2025-10-28 08:43:30,658 INFO Normal : book (86.8%)
+2025-10-28 08:43:30,697 INFO Normal : book (87.5%)
+2025-10-28 08:43:30,741 INFO Normal : book (78.5%)
+2025-10-28 08:43:30,779 INFO Normal : suitcase (68.6%)
+2025-10-28 08:43:30,780 INFO Normal : book (78.2%)
+2025-10-28 08:43:30,821 INFO Normal : suitcase (64.6%)
+2025-10-28 08:43:30,821 INFO Normal : book (82.1%)
+2025-10-28 08:43:30,867 INFO Normal : suitcase (63.6%)
+2025-10-28 08:43:30,868 INFO Normal : book (78.4%)
+2025-10-28 08:43:30,903 INFO Normal : suitcase (63.4%)
+2025-10-28 08:43:30,904 INFO Normal : book (64.5%)
+2025-10-28 08:43:30,942 INFO Normal : suitcase (50.0%)
+2025-10-28 08:43:30,943 INFO Normal : book (67.4%)
+2025-10-28 08:43:30,989 INFO Normal : suitcase (77.1%)
+2025-10-28 08:43:30,990 INFO Normal : book (86.6%)
+2025-10-28 08:43:31,029 INFO Normal : suitcase (69.6%)
+2025-10-28 08:43:31,029 INFO Normal : book (84.8%)
+2025-10-28 08:43:31,073 INFO Normal : book (67.1%)
+2025-10-28 08:43:31,073 INFO Normal : suitcase (79.3%)
+2025-10-28 08:43:31,115 INFO Normal : book (94.3%)
+2025-10-28 08:43:31,152 INFO Normal : book (94.1%)
+2025-10-28 08:43:31,153 INFO Normal : mouse (50.4%)
+2025-10-28 08:43:31,193 INFO Normal : book (94.3%)
+2025-10-28 08:43:31,194 INFO Normal : mouse (60.7%)
+2025-10-28 08:43:31,236 INFO Normal : book (99.1%)
+2025-10-28 08:43:31,276 INFO Normal : book (97.1%)
+2025-10-28 08:43:31,323 INFO Normal : book (90.3%)
+2025-10-28 08:43:31,323 INFO Normal : cell phone (52.0%)
+2025-10-28 08:43:31,362 INFO Normal : book (98.7%)
+2025-10-28 08:43:31,402 INFO Normal : book (92.3%)
+2025-10-28 08:43:31,403 INFO Normal : mouse (53.8%)
+2025-10-28 08:43:31,440 INFO Normal : book (97.4%)
+2025-10-28 08:43:31,483 INFO Normal : book (93.4%)
+2025-10-28 08:43:31,528 INFO Normal : remote (56.5%)
+2025-10-28 08:43:31,529 INFO Normal : book (94.6%)
+2025-10-28 08:43:31,566 INFO Normal : book (95.7%)
+2025-10-28 08:43:31,612 INFO Normal : book (95.4%)
+2025-10-28 08:43:31,612 INFO Normal : cat (72.5%)
+2025-10-28 08:43:31,652 INFO Normal : book (85.5%)
+2025-10-28 08:43:31,652 INFO Normal : suitcase (79.2%)
+2025-10-28 08:43:31,653 INFO Normal : cat (55.3%)
+2025-10-28 08:43:31,690 INFO Normal : book (91.3%)
+2025-10-28 08:43:31,691 INFO Normal : cat (57.3%)
+2025-10-28 08:43:31,735 INFO Normal : book (77.4%)
+2025-10-28 08:43:31,777 INFO Normal : book (93.9%)
+2025-10-28 08:43:31,815 INFO Normal : book (77.1%)
+2025-10-28 08:43:31,861 INFO Normal : book (96.0%)
+2025-10-28 08:43:31,861 INFO ANOMALY: person (53.7%)
+2025-10-28 08:43:31,861 INFO Cooldown skip: reason='Detected: person', wait_global=3.5s
+2025-10-28 08:43:31,899 INFO ANOMALY: person (71.2%)
+2025-10-28 08:43:31,899 INFO Normal : book (78.2%)
+2025-10-28 08:43:31,900 INFO Cooldown skip: reason='Detected: person', wait_global=3.5s
+2025-10-28 08:43:31,944 INFO ANOMALY: person (53.6%)
+2025-10-28 08:43:31,945 INFO Cooldown skip: reason='Detected: person', wait_global=3.4s
+2025-10-28 08:43:31,984 INFO Normal : book (70.7%)
+2025-10-28 08:43:32,152 INFO ANOMALY: person (50.5%)
+2025-10-28 08:43:32,153 INFO Cooldown skip: reason='Detected: person', wait_global=3.2s
+2025-10-28 08:43:32,193 INFO ANOMALY: person (50.4%)
+2025-10-28 08:43:32,193 INFO Cooldown skip: reason='Detected: person', wait_global=3.2s
+2025-10-28 08:43:32,259 INFO Normal : toilet (72.3%)
+2025-10-28 08:43:32,259 INFO Normal : cat (82.1%)
+2025-10-28 08:43:32,323 INFO ANOMALY: person (52.4%)
+2025-10-28 08:43:32,323 INFO Cooldown skip: reason='Detected: person', wait_global=3.0s
+2025-10-28 08:43:32,523 INFO Normal : chair (52.8%)
+2025-10-28 08:43:32,655 INFO Normal : chair (61.3%)
+2025-10-28 08:43:32,723 INFO ANOMALY: person (58.8%)
+2025-10-28 08:43:32,724 INFO Normal : chair (50.9%)
+2025-10-28 08:43:32,724 INFO Cooldown skip: reason='Detected: person', wait_global=2.6s
+2025-10-28 08:43:32,787 INFO ANOMALY: person (66.8%)
+2025-10-28 08:43:32,788 INFO Normal : cup (55.0%)
+2025-10-28 08:43:32,788 INFO Cooldown skip: reason='Detected: person', wait_global=2.6s
+2025-10-28 08:43:32,855 INFO Normal : dining table (54.5%)
+2025-10-28 08:43:32,856 INFO Normal : chair (53.1%)
+2025-10-28 08:43:33,319 INFO Normal : dining table (56.4%)
+2025-10-28 08:43:33,451 INFO Normal : dining table (89.9%)
+2025-10-28 08:43:33,519 INFO ANOMALY: person (50.1%)
+2025-10-28 08:43:33,520 INFO Cooldown skip: reason='Detected: person', wait_global=1.8s
+2025-10-28 08:43:34,248 INFO Normal : dining table (54.1%)
+2025-10-28 08:43:34,316 INFO Normal : dining table (66.2%)
+2025-10-28 08:43:34,515 INFO ANOMALY: person (53.9%)
+2025-10-28 08:43:34,516 INFO Cooldown skip: reason='Detected: person', wait_global=0.8s
+2025-10-28 08:43:34,579 INFO ANOMALY: person (57.4%)
+2025-10-28 08:43:34,580 INFO Cooldown skip: reason='Detected: person', wait_global=0.8s
+2025-10-28 08:43:34,780 INFO Normal : dining table (65.6%)
+2025-10-28 08:43:34,980 INFO Normal : dining table (52.6%)
+2025-10-28 08:43:35,112 INFO Normal : dining table (69.8%)
+2025-10-28 08:43:35,112 INFO Normal : sink (50.9%)
+2025-10-28 08:43:35,311 INFO ANOMALY: person (66.1%)
+2025-10-28 08:43:35,312 INFO Cooldown skip: reason='Detected: person', wait_global=0.1s
+2025-10-28 08:43:35,375 INFO ANOMALY: person (54.4%)
+2025-10-28 08:43:35,499 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084335.jpg
+2025-10-28 08:43:35,577 INFO Normal : sink (68.1%)
+2025-10-28 08:43:35,706 INFO Normal : toilet (58.8%)
+2025-10-28 08:43:36,771 INFO Normal : dining table (90.1%)
+2025-10-28 08:43:36,835 INFO Normal : dining table (83.2%)
+2025-10-28 08:43:36,902 INFO Normal : dining table (79.7%)
+2025-10-28 08:43:36,971 INFO Normal : dining table (91.3%)
+2025-10-28 08:43:37,036 INFO Normal : dining table (78.3%)
+2025-10-28 08:43:37,104 INFO Normal : dining table (88.4%)
+2025-10-28 08:43:37,168 INFO Normal : dining table (88.4%)
+2025-10-28 08:43:37,235 INFO Normal : dining table (78.4%)
+2025-10-28 08:43:37,304 INFO Normal : dining table (85.8%)
+2025-10-28 08:43:37,364 INFO Normal : dining table (56.1%)
+2025-10-28 08:43:37,436 INFO Normal : dining table (82.3%)
+2025-10-28 08:43:37,500 INFO Normal : dining table (80.7%)
+2025-10-28 08:43:37,566 INFO Normal : dining table (61.2%)
+2025-10-28 08:43:37,700 INFO Normal : dining table (63.2%)
+2025-10-28 08:43:37,768 INFO Normal : dining table (59.3%)
+2025-10-28 08:43:37,832 INFO Normal : dining table (50.3%)
+2025-10-28 08:43:37,968 INFO Normal : dining table (71.6%)
+2025-10-28 08:43:38,099 INFO Normal : dining table (55.8%)
+2025-10-28 08:43:38,563 INFO Normal : refrigerator (82.5%)
+2025-10-28 08:43:39,028 INFO Normal : chair (70.7%)
+2025-10-28 08:43:39,028 INFO Normal : chair (51.1%)
+2025-10-28 08:43:39,096 INFO Normal : chair (73.7%)
+2025-10-28 08:43:39,096 INFO Normal : chair (89.0%)
+2025-10-28 08:43:39,160 INFO Normal : chair (60.3%)
+2025-10-28 08:43:39,161 INFO Normal : chair (87.0%)
+2025-10-28 08:43:39,228 INFO Normal : chair (71.7%)
+2025-10-28 08:43:39,229 INFO Normal : chair (87.4%)
+2025-10-28 08:43:39,292 INFO Normal : chair (65.9%)
+2025-10-28 08:43:39,292 INFO Normal : chair (79.1%)
+2025-10-28 08:43:39,360 INFO Normal : chair (50.7%)
+2025-10-28 08:43:39,360 INFO Normal : chair (80.5%)
+2025-10-28 08:43:39,428 INFO Normal : chair (52.1%)
+2025-10-28 08:43:39,428 INFO Normal : chair (94.6%)
+2025-10-28 08:43:39,429 INFO Normal : chair (60.5%)
+2025-10-28 08:43:39,492 INFO Normal : chair (89.1%)
+2025-10-28 08:43:39,493 INFO Normal : chair (89.7%)
+2025-10-28 08:43:39,493 INFO Normal : chair (57.2%)
+2025-10-28 08:43:39,560 INFO Normal : chair (51.8%)
+2025-10-28 08:43:39,561 INFO Normal : chair (86.9%)
+2025-10-28 08:43:39,561 INFO Normal : chair (76.9%)
+2025-10-28 08:43:39,561 INFO Normal : chair (61.2%)
+2025-10-28 08:43:39,624 INFO Normal : chair (71.0%)
+2025-10-28 08:43:39,625 INFO Normal : chair (83.5%)
+2025-10-28 08:43:39,625 INFO Normal : chair (62.5%)
+2025-10-28 08:43:39,692 INFO Normal : chair (77.4%)
+2025-10-28 08:43:39,693 INFO Normal : chair (87.7%)
+2025-10-28 08:43:39,693 INFO Normal : chair (64.2%)
+2025-10-28 08:43:39,760 INFO Normal : chair (83.3%)
+2025-10-28 08:43:39,760 INFO Normal : chair (80.8%)
+2025-10-28 08:43:39,761 INFO Normal : chair (64.5%)
+2025-10-28 08:43:39,824 INFO Normal : chair (79.3%)
+2025-10-28 08:43:39,825 INFO Normal : chair (86.5%)
+2025-10-28 08:43:39,825 INFO Normal : chair (68.4%)
+2025-10-28 08:43:39,892 INFO Normal : chair (81.4%)
+2025-10-28 08:43:39,893 INFO Normal : chair (72.9%)
+2025-10-28 08:43:39,893 INFO Normal : chair (66.1%)
+2025-10-28 08:43:39,956 INFO Normal : chair (88.6%)
+2025-10-28 08:43:39,956 INFO Normal : chair (84.4%)
+2025-10-28 08:43:39,957 INFO Normal : chair (71.5%)
+2025-10-28 08:43:40,024 INFO Normal : chair (54.6%)
+2025-10-28 08:43:40,024 INFO Normal : chair (71.3%)
+2025-10-28 08:43:40,025 INFO Normal : chair (79.5%)
+2025-10-28 08:43:40,025 INFO Normal : chair (77.1%)
+2025-10-28 08:43:40,092 INFO Normal : chair (73.4%)
+2025-10-28 08:43:40,092 INFO Normal : chair (86.8%)
+2025-10-28 08:43:40,093 INFO Normal : chair (77.1%)
+2025-10-28 08:43:40,156 INFO Normal : chair (77.9%)
+2025-10-28 08:43:40,156 INFO Normal : chair (78.4%)
+2025-10-28 08:43:40,156 INFO Normal : chair (85.6%)
+2025-10-28 08:43:40,224 INFO Normal : chair (66.7%)
+2025-10-28 08:43:40,224 INFO Normal : chair (78.7%)
+2025-10-28 08:43:40,224 INFO Normal : chair (71.9%)
+2025-10-28 08:43:40,288 INFO Normal : chair (73.0%)
+2025-10-28 08:43:40,288 INFO Normal : chair (92.3%)
+2025-10-28 08:43:40,288 INFO Normal : chair (92.5%)
+2025-10-28 08:43:40,356 INFO Normal : chair (56.6%)
+2025-10-28 08:43:40,356 INFO Normal : chair (79.5%)
+2025-10-28 08:43:40,356 INFO Normal : chair (71.3%)
+2025-10-28 08:43:40,357 INFO Normal : chair (83.3%)
+2025-10-28 08:43:40,424 INFO Normal : chair (77.2%)
+2025-10-28 08:43:40,424 INFO Normal : chair (91.1%)
+2025-10-28 08:43:40,424 INFO Normal : chair (71.9%)
+2025-10-28 08:43:40,488 INFO Normal : chair (79.9%)
+2025-10-28 08:43:40,488 INFO Normal : chair (89.7%)
+2025-10-28 08:43:40,488 INFO Normal : chair (69.6%)
+2025-10-28 08:43:40,556 INFO Normal : chair (91.0%)
+2025-10-28 08:43:40,556 INFO Normal : chair (97.4%)
+2025-10-28 08:43:40,556 INFO Normal : chair (86.5%)
+2025-10-28 08:43:40,620 INFO Normal : chair (59.9%)
+2025-10-28 08:43:40,620 INFO Normal : chair (95.1%)
+2025-10-28 08:43:40,688 INFO Normal : chair (95.3%)
+2025-10-28 08:43:40,756 INFO Normal : chair (88.9%)
+2025-10-28 08:43:40,756 INFO Normal : chair (78.2%)
+2025-10-28 08:43:40,820 INFO Normal : chair (80.5%)
+2025-10-28 08:43:40,820 INFO Normal : chair (91.7%)
+2025-10-28 08:43:40,821 INFO Normal : chair (72.2%)
+2025-10-28 08:43:40,888 INFO Normal : chair (78.3%)
+2025-10-28 08:43:40,952 INFO Normal : chair (84.0%)
+2025-10-28 08:43:40,952 INFO Normal : chair (91.7%)
+2025-10-28 08:43:40,953 INFO Normal : chair (75.1%)
+2025-10-28 08:43:41,020 INFO Normal : chair (74.1%)
+2025-10-28 08:43:41,021 INFO Normal : chair (72.6%)
+2025-10-28 08:43:41,021 INFO Normal : chair (77.4%)
+2025-10-28 08:43:41,021 INFO Normal : dog (62.2%)
+2025-10-28 08:43:41,088 INFO Normal : chair (77.4%)
+2025-10-28 08:43:41,089 INFO Normal : chair (71.7%)
+2025-10-28 08:43:41,089 INFO Normal : chair (55.6%)
+2025-10-28 08:43:41,152 INFO Normal : chair (59.7%)
+2025-10-28 08:43:41,153 INFO Normal : chair (60.0%)
+2025-10-28 08:43:41,220 INFO Normal : chair (58.8%)
+2025-10-28 08:43:41,220 INFO Normal : chair (77.1%)
+2025-10-28 08:43:41,284 INFO Normal : chair (51.9%)
+2025-10-28 08:43:41,285 INFO Normal : chair (71.0%)
+2025-10-28 08:43:41,352 INFO Normal : chair (58.5%)
+2025-10-28 08:43:41,353 INFO Normal : chair (60.2%)
+2025-10-28 08:43:41,484 INFO Normal : tv (70.4%)
+2025-10-28 08:43:41,552 INFO Normal : tv (86.6%)
+2025-10-28 08:43:41,616 INFO Normal : tv (78.4%)
+2025-10-28 08:43:41,684 INFO Normal : tv (71.0%)
+2025-10-28 08:43:41,748 INFO Normal : tv (74.7%)
+2025-10-28 08:43:41,816 INFO ANOMALY: laptop (76.8%)
+2025-10-28 08:43:41,817 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.6s
+2025-10-28 08:43:41,884 INFO ANOMALY: laptop (86.9%)
+2025-10-28 08:43:41,885 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.5s
+2025-10-28 08:43:41,949 INFO ANOMALY: laptop (92.8%)
+2025-10-28 08:43:41,949 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 08:43:42,017 INFO ANOMALY: laptop (91.4%)
+2025-10-28 08:43:42,017 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 08:43:42,077 INFO ANOMALY: laptop (83.6%)
+2025-10-28 08:43:42,077 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.3s
+2025-10-28 08:43:42,149 INFO ANOMALY: laptop (77.6%)
+2025-10-28 08:43:42,149 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.2s
+2025-10-28 08:43:42,217 INFO ANOMALY: laptop (81.5%)
+2025-10-28 08:43:42,218 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.2s
+2025-10-28 08:43:42,279 INFO ANOMALY: laptop (84.5%)
+2025-10-28 08:43:42,280 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.1s
+2025-10-28 08:43:42,349 INFO ANOMALY: laptop (91.4%)
+2025-10-28 08:43:42,349 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.0s
+2025-10-28 08:43:42,413 INFO ANOMALY: laptop (94.3%)
+2025-10-28 08:43:42,413 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.0s
+2025-10-28 08:43:42,481 INFO ANOMALY: laptop (90.4%)
+2025-10-28 08:43:42,481 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.9s
+2025-10-28 08:43:42,549 INFO ANOMALY: laptop (84.3%)
+2025-10-28 08:43:42,549 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.8s
+2025-10-28 08:43:42,613 INFO ANOMALY: laptop (86.4%)
+2025-10-28 08:43:42,614 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.8s
+2025-10-28 08:43:42,681 INFO ANOMALY: laptop (83.3%)
+2025-10-28 08:43:42,682 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.7s
+2025-10-28 08:43:42,746 INFO ANOMALY: laptop (85.6%)
+2025-10-28 08:43:42,746 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.6s
+2025-10-28 08:43:42,814 INFO ANOMALY: laptop (86.2%)
+2025-10-28 08:43:42,815 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.6s
+2025-10-28 08:43:42,882 INFO ANOMALY: laptop (83.7%)
+2025-10-28 08:43:42,882 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.5s
+2025-10-28 08:43:42,946 INFO ANOMALY: laptop (83.8%)
+2025-10-28 08:43:42,946 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.4s
+2025-10-28 08:43:43,014 INFO ANOMALY: laptop (85.4%)
+2025-10-28 08:43:43,014 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.4s
+2025-10-28 08:43:43,078 INFO ANOMALY: laptop (87.9%)
+2025-10-28 08:43:43,078 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.3s
+2025-10-28 08:43:43,146 INFO ANOMALY: laptop (90.2%)
+2025-10-28 08:43:43,147 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.2s
+2025-10-28 08:43:43,214 INFO ANOMALY: laptop (87.1%)
+2025-10-28 08:43:43,215 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.2s
+2025-10-28 08:43:43,279 INFO ANOMALY: laptop (87.1%)
+2025-10-28 08:43:43,279 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.1s
+2025-10-28 08:43:43,347 INFO ANOMALY: laptop (84.5%)
+2025-10-28 08:43:43,347 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.0s
+2025-10-28 08:43:43,410 INFO ANOMALY: laptop (86.1%)
+2025-10-28 08:43:43,411 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.0s
+2025-10-28 08:43:43,478 INFO ANOMALY: laptop (80.9%)
+2025-10-28 08:43:43,479 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.9s
+2025-10-28 08:43:43,546 INFO ANOMALY: laptop (89.8%)
+2025-10-28 08:43:43,547 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.8s
+2025-10-28 08:43:43,609 INFO ANOMALY: laptop (85.8%)
+2025-10-28 08:43:43,609 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.8s
+2025-10-28 08:43:44,007 INFO ANOMALY: person (84.5%)
+2025-10-28 08:43:44,008 INFO Cooldown skip: reason='Detected: person', wait_global=1.4s
+2025-10-28 08:43:44,072 INFO Normal : cat (60.2%)
+2025-10-28 08:43:44,140 INFO Normal : bed (73.8%)
+2025-10-28 08:43:44,204 INFO Normal : bed (77.9%)
+2025-10-28 08:43:44,672 INFO ANOMALY: person (74.2%)
+2025-10-28 08:43:44,672 INFO Cooldown skip: reason='Detected: person', wait_global=0.7s
+2025-10-28 08:43:44,736 INFO Normal : dog (72.8%)
+2025-10-28 08:43:44,804 INFO ANOMALY: person (58.2%)
+2025-10-28 08:43:44,805 INFO Cooldown skip: reason='Detected: person', wait_global=0.6s
+2025-10-28 08:43:44,868 INFO ANOMALY: person (74.9%)
+2025-10-28 08:43:44,869 INFO Cooldown skip: reason='Detected: person', wait_global=0.5s
+2025-10-28 08:43:44,936 INFO ANOMALY: person (74.0%)
+2025-10-28 08:43:44,937 INFO Cooldown skip: reason='Detected: person', wait_global=0.4s
+2025-10-28 08:43:45,201 INFO Normal : dog (58.2%)
+2025-10-28 08:43:45,270 INFO Normal : dog (71.7%)
+2025-10-28 08:43:45,337 INFO Normal : dog (78.4%)
+2025-10-28 08:43:45,401 INFO Normal : dog (63.7%)
+2025-10-28 08:43:45,469 INFO ANOMALY: person (66.7%)
+2025-10-28 08:43:45,610 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084345.jpg
+2025-10-28 08:43:45,627 INFO Normal : bed (50.6%)
+2025-10-28 08:43:45,627 INFO ANOMALY: person (54.5%)
+2025-10-28 08:43:45,627 INFO Cooldown skip: reason='Detected: person', wait_global=9.8s
+2025-10-28 08:43:45,669 INFO ANOMALY: person (82.6%)
+2025-10-28 08:43:45,669 INFO Cooldown skip: reason='Detected: person', wait_global=9.8s
+2025-10-28 08:43:45,731 INFO ANOMALY: person (61.1%)
+2025-10-28 08:43:45,731 INFO Cooldown skip: reason='Detected: person', wait_global=9.7s
+2025-10-28 08:43:45,804 INFO ANOMALY: person (75.2%)
+2025-10-28 08:43:45,805 INFO Cooldown skip: reason='Detected: person', wait_global=9.7s
+2025-10-28 08:43:45,863 INFO ANOMALY: person (87.8%)
+2025-10-28 08:43:45,864 INFO Cooldown skip: reason='Detected: person', wait_global=9.6s
+2025-10-28 08:43:45,932 INFO ANOMALY: person (82.4%)
+2025-10-28 08:43:45,933 INFO Cooldown skip: reason='Detected: person', wait_global=9.5s
+2025-10-28 08:43:45,996 INFO ANOMALY: person (80.8%)
+2025-10-28 08:43:45,997 INFO Cooldown skip: reason='Detected: person', wait_global=9.5s
+2025-10-28 08:43:46,065 INFO ANOMALY: person (80.1%)
+2025-10-28 08:43:46,065 INFO Cooldown skip: reason='Detected: person', wait_global=9.4s
+2025-10-28 08:43:46,132 INFO ANOMALY: person (87.3%)
+2025-10-28 08:43:46,133 INFO Cooldown skip: reason='Detected: person', wait_global=9.3s
+2025-10-28 08:43:46,197 INFO ANOMALY: person (90.9%)
+2025-10-28 08:43:46,197 INFO Cooldown skip: reason='Detected: person', wait_global=9.3s
+2025-10-28 08:43:46,265 INFO ANOMALY: person (90.1%)
+2025-10-28 08:43:46,265 INFO Cooldown skip: reason='Detected: person', wait_global=9.2s
+2025-10-28 08:43:46,328 INFO ANOMALY: person (80.9%)
+2025-10-28 08:43:46,329 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 08:43:46,396 INFO ANOMALY: person (87.5%)
+2025-10-28 08:43:46,397 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 08:43:46,465 INFO ANOMALY: person (85.2%)
+2025-10-28 08:43:46,465 INFO Cooldown skip: reason='Detected: person', wait_global=9.0s
+2025-10-28 08:43:46,529 INFO ANOMALY: person (90.2%)
+2025-10-28 08:43:46,529 INFO Cooldown skip: reason='Detected: person', wait_global=8.9s
+2025-10-28 08:43:46,597 INFO ANOMALY: person (91.6%)
+2025-10-28 08:43:46,597 INFO Cooldown skip: reason='Detected: person', wait_global=8.9s
+2025-10-28 08:43:46,661 INFO ANOMALY: person (86.0%)
+2025-10-28 08:43:46,661 INFO Cooldown skip: reason='Detected: person', wait_global=8.8s
+2025-10-28 08:43:46,729 INFO ANOMALY: person (84.8%)
+2025-10-28 08:43:46,729 INFO Cooldown skip: reason='Detected: person', wait_global=8.7s
+2025-10-28 08:43:46,797 INFO ANOMALY: person (82.8%)
+2025-10-28 08:43:46,797 INFO Cooldown skip: reason='Detected: person', wait_global=8.7s
+2025-10-28 08:43:46,861 INFO ANOMALY: person (91.7%)
+2025-10-28 08:43:46,861 INFO Cooldown skip: reason='Detected: person', wait_global=8.6s
+2025-10-28 08:43:46,929 INFO ANOMALY: person (88.8%)
+2025-10-28 08:43:46,929 INFO Cooldown skip: reason='Detected: person', wait_global=8.5s
+2025-10-28 08:43:46,993 INFO ANOMALY: person (88.8%)
+2025-10-28 08:43:46,993 INFO Cooldown skip: reason='Detected: person', wait_global=8.5s
+2025-10-28 08:43:47,059 INFO ANOMALY: person (75.6%)
+2025-10-28 08:43:47,059 INFO Cooldown skip: reason='Detected: person', wait_global=8.4s
+2025-10-28 08:43:47,129 INFO ANOMALY: person (80.4%)
+2025-10-28 08:43:47,129 INFO Cooldown skip: reason='Detected: person', wait_global=8.3s
+2025-10-28 08:43:47,193 INFO ANOMALY: person (82.1%)
+2025-10-28 08:43:47,193 INFO Cooldown skip: reason='Detected: person', wait_global=8.3s
+2025-10-28 08:43:47,260 INFO ANOMALY: person (59.5%)
+2025-10-28 08:43:47,261 INFO Cooldown skip: reason='Detected: person', wait_global=8.2s
+2025-10-28 08:43:47,324 INFO ANOMALY: person (60.8%)
+2025-10-28 08:43:47,325 INFO Cooldown skip: reason='Detected: person', wait_global=8.1s
+2025-10-28 08:43:47,392 INFO ANOMALY: person (65.0%)
+2025-10-28 08:43:47,393 INFO Cooldown skip: reason='Detected: person', wait_global=8.1s
+2025-10-28 08:43:47,656 INFO ANOMALY: person (86.9%)
+2025-10-28 08:43:47,657 INFO Cooldown skip: reason='Detected: person', wait_global=7.8s
+2025-10-28 08:43:47,725 INFO ANOMALY: person (85.9%)
+2025-10-28 08:43:47,725 INFO Cooldown skip: reason='Detected: person', wait_global=7.7s
+2025-10-28 08:43:47,793 INFO ANOMALY: person (75.5%)
+2025-10-28 08:43:47,794 INFO Cooldown skip: reason='Detected: person', wait_global=7.7s
+2025-10-28 08:43:47,857 INFO ANOMALY: person (76.4%)
+2025-10-28 08:43:47,858 INFO Cooldown skip: reason='Detected: person', wait_global=7.6s
+2025-10-28 08:43:47,925 INFO ANOMALY: person (82.3%)
+2025-10-28 08:43:47,926 INFO Cooldown skip: reason='Detected: person', wait_global=7.5s
+2025-10-28 08:43:47,989 INFO ANOMALY: person (81.7%)
+2025-10-28 08:43:47,990 INFO Cooldown skip: reason='Detected: person', wait_global=7.5s
+2025-10-28 08:43:48,057 INFO ANOMALY: person (87.0%)
+2025-10-28 08:43:48,058 INFO Cooldown skip: reason='Detected: person', wait_global=7.4s
+2025-10-28 08:43:48,121 INFO ANOMALY: person (87.2%)
+2025-10-28 08:43:48,122 INFO Cooldown skip: reason='Detected: person', wait_global=7.3s
+2025-10-28 08:43:48,189 INFO ANOMALY: person (76.9%)
+2025-10-28 08:43:48,190 INFO Cooldown skip: reason='Detected: person', wait_global=7.3s
+2025-10-28 08:43:48,257 INFO ANOMALY: person (82.6%)
+2025-10-28 08:43:48,257 INFO Cooldown skip: reason='Detected: person', wait_global=7.2s
+2025-10-28 08:43:48,321 INFO ANOMALY: person (76.3%)
+2025-10-28 08:43:48,322 INFO Cooldown skip: reason='Detected: person', wait_global=7.1s
+2025-10-28 08:43:48,389 INFO ANOMALY: person (86.5%)
+2025-10-28 08:43:48,389 INFO Cooldown skip: reason='Detected: person', wait_global=7.1s
+2025-10-28 08:43:48,450 INFO ANOMALY: person (92.1%)
+2025-10-28 08:43:48,450 INFO Cooldown skip: reason='Detected: person', wait_global=7.0s
+2025-10-28 08:43:48,517 INFO ANOMALY: person (88.3%)
+2025-10-28 08:43:48,517 INFO Cooldown skip: reason='Detected: person', wait_global=7.0s
+2025-10-28 08:43:49,317 INFO ANOMALY: laptop (50.4%)
+2025-10-28 08:43:49,317 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.2s
+2025-10-28 08:43:49,385 INFO ANOMALY: laptop (79.8%)
+2025-10-28 08:43:49,385 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.1s
+2025-10-28 08:43:49,585 INFO ANOMALY: laptop (84.0%)
+2025-10-28 08:43:49,585 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.9s
+2025-10-28 08:43:49,849 INFO ANOMALY: laptop (98.2%)
+2025-10-28 08:43:49,849 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.6s
+2025-10-28 08:43:49,918 INFO ANOMALY: laptop (93.7%)
+2025-10-28 08:43:49,918 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.6s
+2025-10-28 08:43:49,981 INFO ANOMALY: laptop (93.8%)
+2025-10-28 08:43:49,981 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.5s
+2025-10-28 08:43:50,050 INFO ANOMALY: laptop (96.5%)
+2025-10-28 08:43:50,050 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.4s
+2025-10-28 08:43:50,112 INFO ANOMALY: laptop (94.9%)
+2025-10-28 08:43:50,112 INFO Normal : keyboard (52.2%)
+2025-10-28 08:43:50,113 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.4s
+2025-10-28 08:43:50,181 INFO ANOMALY: laptop (96.7%)
+2025-10-28 08:43:50,181 INFO Normal : keyboard (50.7%)
+2025-10-28 08:43:50,182 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.3s
+2025-10-28 08:43:50,249 INFO ANOMALY: laptop (96.9%)
+2025-10-28 08:43:50,249 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.2s
+2025-10-28 08:43:50,310 INFO ANOMALY: laptop (97.7%)
+2025-10-28 08:43:50,311 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.2s
+2025-10-28 08:43:50,381 INFO ANOMALY: laptop (96.5%)
+2025-10-28 08:43:50,381 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.1s
+2025-10-28 08:43:50,445 INFO ANOMALY: laptop (96.2%)
+2025-10-28 08:43:50,445 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.0s
+2025-10-28 08:43:50,513 INFO ANOMALY: laptop (96.9%)
+2025-10-28 08:43:50,513 INFO Normal : keyboard (70.7%)
+2025-10-28 08:43:50,513 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.0s
+2025-10-28 08:43:50,577 INFO ANOMALY: laptop (98.3%)
+2025-10-28 08:43:50,577 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.9s
+2025-10-28 08:43:50,645 INFO ANOMALY: laptop (97.3%)
+2025-10-28 08:43:50,646 INFO Normal : keyboard (52.3%)
+2025-10-28 08:43:50,646 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.8s
+2025-10-28 08:43:50,714 INFO ANOMALY: laptop (98.2%)
+2025-10-28 08:43:50,714 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.8s
+2025-10-28 08:43:50,776 INFO ANOMALY: laptop (98.7%)
+2025-10-28 08:43:50,776 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.7s
+2025-10-28 08:43:50,845 INFO ANOMALY: laptop (98.7%)
+2025-10-28 08:43:50,846 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.6s
+2025-10-28 08:43:50,910 INFO ANOMALY: laptop (98.3%)
+2025-10-28 08:43:50,910 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.6s
+2025-10-28 08:43:50,978 INFO ANOMALY: laptop (98.0%)
+2025-10-28 08:43:50,978 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.5s
+2025-10-28 08:43:51,046 INFO ANOMALY: laptop (97.3%)
+2025-10-28 08:43:51,046 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.4s
+2025-10-28 08:43:51,110 INFO ANOMALY: laptop (94.1%)
+2025-10-28 08:43:51,110 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.4s
+2025-10-28 08:43:51,177 INFO ANOMALY: laptop (73.7%)
+2025-10-28 08:43:51,177 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.3s
+2025-10-28 08:43:51,377 INFO ANOMALY: laptop (87.0%)
+2025-10-28 08:43:51,378 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.1s
+2025-10-28 08:43:51,441 INFO ANOMALY: laptop (87.2%)
+2025-10-28 08:43:51,441 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.0s
+2025-10-28 08:43:51,510 INFO ANOMALY: laptop (61.0%)
+2025-10-28 08:43:51,510 INFO Normal : keyboard (91.2%)
+2025-10-28 08:43:51,511 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.0s
+2025-10-28 08:43:51,573 INFO ANOMALY: laptop (66.7%)
+2025-10-28 08:43:51,574 INFO Normal : keyboard (85.3%)
+2025-10-28 08:43:51,574 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.9s
+2025-10-28 08:43:51,642 INFO ANOMALY: laptop (72.6%)
+2025-10-28 08:43:51,643 INFO Normal : keyboard (74.1%)
+2025-10-28 08:43:51,643 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 08:43:51,710 INFO ANOMALY: laptop (86.0%)
+2025-10-28 08:43:51,710 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 08:43:51,774 INFO ANOMALY: laptop (84.2%)
+2025-10-28 08:43:51,775 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.7s
+2025-10-28 08:43:51,842 INFO ANOMALY: laptop (72.6%)
+2025-10-28 08:43:51,843 INFO Normal : keyboard (83.3%)
+2025-10-28 08:43:51,843 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.6s
+2025-10-28 08:43:51,907 INFO ANOMALY: laptop (90.8%)
+2025-10-28 08:43:51,907 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.6s
+2025-10-28 08:43:51,975 INFO ANOMALY: laptop (91.7%)
+2025-10-28 08:43:51,975 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.5s
+2025-10-28 08:43:52,043 INFO ANOMALY: laptop (91.4%)
+2025-10-28 08:43:52,044 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 08:43:52,108 INFO ANOMALY: laptop (90.8%)
+2025-10-28 08:43:52,108 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 08:43:52,175 INFO ANOMALY: laptop (92.1%)
+2025-10-28 08:43:52,176 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.3s
+2025-10-28 08:43:52,239 INFO ANOMALY: laptop (86.3%)
+2025-10-28 08:43:52,239 INFO Normal : keyboard (58.5%)
+2025-10-28 08:43:52,240 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.2s
+2025-10-28 08:43:52,306 INFO Normal : keyboard (83.7%)
+2025-10-28 08:43:52,638 INFO Normal : mouse (85.3%)
+2025-10-28 08:43:52,701 INFO Normal : mouse (95.4%)
+2025-10-28 08:43:52,769 INFO Normal : mouse (97.6%)
+2025-10-28 08:43:52,837 INFO Normal : mouse (91.1%)
+2025-10-28 08:43:52,901 INFO Normal : mouse (95.3%)
+2025-10-28 08:43:52,970 INFO Normal : mouse (99.7%)
+2025-10-28 08:43:53,034 INFO Normal : mouse (99.7%)
+2025-10-28 08:43:53,102 INFO Normal : mouse (99.5%)
+2025-10-28 08:43:53,166 INFO Normal : mouse (99.7%)
+2025-10-28 08:43:53,234 INFO Normal : mouse (99.6%)
+2025-10-28 08:43:53,303 INFO Normal : mouse (99.8%)
+2025-10-28 08:43:53,367 INFO Normal : mouse (99.6%)
+2025-10-28 08:43:53,435 INFO Normal : mouse (99.8%)
+2025-10-28 08:43:53,503 INFO Normal : mouse (99.8%)
+2025-10-28 08:43:53,567 INFO Normal : mouse (99.5%)
+2025-10-28 08:43:53,635 INFO Normal : mouse (99.6%)
+2025-10-28 08:43:53,699 INFO Normal : mouse (99.8%)
+2025-10-28 08:43:53,765 INFO Normal : mouse (89.5%)
+2025-10-28 08:43:54,298 INFO Normal : cell phone (78.8%)
+2025-10-28 08:43:54,629 INFO Normal : remote (86.6%)
+2025-10-28 08:43:54,693 INFO Normal : refrigerator (65.9%)
+2025-10-28 08:43:54,762 INFO Normal : remote (67.4%)
+2025-10-28 08:43:54,762 INFO Normal : cell phone (70.8%)
+2025-10-28 08:43:54,830 INFO Normal : cell phone (94.8%)
+2025-10-28 08:43:54,894 INFO Normal : cell phone (52.0%)
+2025-10-28 08:43:54,962 INFO Normal : cell phone (52.8%)
+2025-10-28 08:43:55,026 INFO Normal : cell phone (96.6%)
+2025-10-28 08:43:55,090 INFO Normal : cell phone (61.8%)
+2025-10-28 08:43:55,159 INFO Normal : cell phone (86.7%)
+2025-10-28 08:43:55,226 INFO Normal : cell phone (86.3%)
+2025-10-28 08:43:55,294 INFO Normal : cell phone (86.4%)
+2025-10-28 08:43:55,358 INFO Normal : cell phone (86.5%)
+2025-10-28 08:43:55,426 INFO Normal : remote (54.1%)
+2025-10-28 08:43:55,489 INFO Normal : refrigerator (51.3%)
+2025-10-28 08:43:55,557 INFO Normal : refrigerator (53.8%)
+2025-10-28 08:43:55,625 INFO Normal : refrigerator (79.9%)
+2025-10-28 08:43:55,689 INFO Normal : refrigerator (50.7%)
+2025-10-28 08:43:55,689 INFO Normal : remote (64.7%)
+2025-10-28 08:43:55,757 INFO Normal : refrigerator (58.9%)
+2025-10-28 08:43:55,957 INFO Normal : refrigerator (51.3%)
+2025-10-28 08:43:56,553 INFO ANOMALY: person (64.7%)
+2025-10-28 08:43:56,676 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084356.jpg
+2025-10-28 08:43:57,085 INFO Normal : chair (74.0%)
+2025-10-28 08:43:57,417 INFO ANOMALY: person (51.0%)
+2025-10-28 08:43:57,418 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 08:43:57,480 INFO Normal : bird (60.1%)
+2025-10-28 08:43:57,549 INFO ANOMALY: person (54.1%)
+2025-10-28 08:43:57,550 INFO Cooldown skip: reason='Detected: person', wait_global=9.0s
+2025-10-28 08:43:57,682 INFO Normal : chair (74.1%)
+2025-10-28 08:43:57,682 INFO Normal : dog (61.5%)
+2025-10-28 08:43:57,682 INFO Normal : chair (51.2%)
+2025-10-28 08:43:57,750 INFO Normal : chair (83.6%)
+2025-10-28 08:43:57,750 INFO Normal : chair (52.2%)
+2025-10-28 08:43:57,814 INFO Normal : chair (86.0%)
+2025-10-28 08:43:57,814 INFO Normal : chair (60.9%)
+2025-10-28 08:43:57,882 INFO Normal : chair (72.8%)
+2025-10-28 08:43:57,883 INFO Normal : chair (59.9%)
+2025-10-28 08:43:57,946 INFO Normal : chair (71.2%)
+2025-10-28 08:43:57,947 INFO Normal : chair (54.2%)
+2025-10-28 08:43:58,015 INFO Normal : chair (75.4%)
+2025-10-28 08:43:58,082 INFO Normal : chair (69.1%)
+2025-10-28 08:43:58,147 INFO Normal : chair (70.4%)
+2025-10-28 08:43:58,214 INFO Normal : chair (75.9%)
+2025-10-28 08:43:58,278 INFO Normal : chair (56.0%)
+2025-10-28 08:43:58,278 INFO Normal : dog (90.9%)
+2025-10-28 08:43:58,345 INFO Normal : dog (64.5%)
+2025-10-28 08:43:58,413 INFO Normal : dog (80.5%)
+2025-10-28 08:43:58,477 INFO Normal : chair (73.0%)
+2025-10-28 08:43:58,478 INFO Normal : dog (78.9%)
+2025-10-28 08:43:58,546 INFO Normal : chair (56.6%)
+2025-10-28 08:43:58,609 INFO Normal : chair (85.4%)
+2025-10-28 08:43:58,677 INFO ANOMALY: person (54.2%)
+2025-10-28 08:43:58,678 INFO Normal : chair (96.0%)
+2025-10-28 08:43:58,678 INFO Cooldown skip: reason='Detected: person', wait_global=7.9s
+2025-10-28 08:43:58,745 INFO ANOMALY: person (75.0%)
+2025-10-28 08:43:58,745 INFO Normal : chair (82.8%)
+2025-10-28 08:43:58,746 INFO Cooldown skip: reason='Detected: person', wait_global=7.8s
+2025-10-28 08:43:58,809 INFO ANOMALY: person (87.8%)
+2025-10-28 08:43:58,809 INFO Normal : chair (51.0%)
+2025-10-28 08:43:58,810 INFO Cooldown skip: reason='Detected: person', wait_global=7.7s
+2025-10-28 08:43:58,877 INFO ANOMALY: person (76.9%)
+2025-10-28 08:43:58,877 INFO Normal : chair (83.7%)
+2025-10-28 08:43:58,878 INFO Normal : chair (50.9%)
+2025-10-28 08:43:58,878 INFO Cooldown skip: reason='Detected: person', wait_global=7.7s
+2025-10-28 08:43:58,941 INFO ANOMALY: person (94.9%)
+2025-10-28 08:43:58,942 INFO Normal : chair (89.4%)
+2025-10-28 08:43:58,942 INFO Normal : chair (77.3%)
+2025-10-28 08:43:58,942 INFO Cooldown skip: reason='Detected: person', wait_global=7.6s
+2025-10-28 08:43:59,009 INFO Normal : chair (97.3%)
+2025-10-28 08:43:59,010 INFO Normal : chair (52.4%)
+2025-10-28 08:43:59,010 INFO ANOMALY: person (66.9%)
+2025-10-28 08:43:59,010 INFO Cooldown skip: reason='Detected: person', wait_global=7.5s
+2025-10-28 08:43:59,077 INFO Normal : chair (97.0%)
+2025-10-28 08:43:59,078 INFO Normal : backpack (54.6%)
+2025-10-28 08:43:59,078 INFO Normal : chair (67.3%)
+2025-10-28 08:43:59,142 INFO Normal : chair (96.1%)
+2025-10-28 08:43:59,210 INFO Normal : chair (92.8%)
+2025-10-28 08:43:59,273 INFO Normal : chair (88.8%)
+2025-10-28 08:43:59,341 INFO Normal : chair (51.3%)
+2025-10-28 08:43:59,342 INFO Normal : suitcase (62.8%)
+2025-10-28 08:43:59,409 INFO Normal : chair (70.6%)
+2025-10-28 08:43:59,410 INFO Normal : suitcase (51.3%)
+2025-10-28 08:43:59,410 INFO Normal : chair (50.4%)
+2025-10-28 08:43:59,410 INFO Normal : chair (53.6%)
+2025-10-28 08:43:59,473 INFO Normal : chair (84.5%)
+2025-10-28 08:43:59,474 INFO Normal : chair (65.2%)
+2025-10-28 08:43:59,542 INFO Normal : chair (92.8%)
+2025-10-28 08:43:59,543 INFO Normal : chair (74.5%)
+2025-10-28 08:43:59,606 INFO Normal : chair (61.9%)
+2025-10-28 08:43:59,606 INFO Normal : chair (81.2%)
+2025-10-28 08:43:59,607 INFO Normal : chair (56.7%)
+2025-10-28 08:43:59,674 INFO Normal : chair (62.4%)
+2025-10-28 08:43:59,675 INFO Normal : chair (94.0%)
+2025-10-28 08:43:59,675 INFO Normal : backpack (77.7%)
+2025-10-28 08:43:59,675 INFO Normal : chair (62.2%)
+2025-10-28 08:43:59,738 INFO Normal : chair (52.2%)
+2025-10-28 08:43:59,738 INFO Normal : chair (85.6%)
+2025-10-28 08:43:59,739 INFO Normal : chair (63.7%)
+2025-10-28 08:43:59,806 INFO Normal : chair (73.2%)
+2025-10-28 08:43:59,806 INFO Normal : chair (87.7%)
+2025-10-28 08:43:59,807 INFO Normal : chair (73.3%)
+2025-10-28 08:43:59,873 INFO Normal : chair (65.3%)
+2025-10-28 08:43:59,874 INFO Normal : chair (63.3%)
+2025-10-28 08:43:59,874 INFO Normal : chair (63.9%)
+2025-10-28 08:43:59,937 INFO Normal : chair (61.4%)
+2025-10-28 08:44:00,006 INFO Normal : dining table (52.0%)
+2025-10-28 08:44:00,068 INFO Normal : chair (83.7%)
+2025-10-28 08:44:00,137 INFO Normal : chair (97.7%)
+2025-10-28 08:44:00,138 INFO Normal : chair (82.9%)
+2025-10-28 08:44:00,205 INFO Normal : chair (89.2%)
+2025-10-28 08:44:00,206 INFO Normal : chair (97.6%)
+2025-10-28 08:44:00,269 INFO Normal : chair (91.9%)
+2025-10-28 08:44:00,337 INFO Normal : chair (71.4%)
+2025-10-28 08:44:00,338 INFO Normal : chair (98.3%)
+2025-10-28 08:44:00,338 INFO Normal : chair (73.6%)
+2025-10-28 08:44:00,401 INFO Normal : chair (78.2%)
+2025-10-28 08:44:00,402 INFO Normal : chair (82.0%)
+2025-10-28 08:44:00,402 INFO Normal : chair (67.8%)
+2025-10-28 08:44:00,469 INFO Normal : chair (98.8%)
+2025-10-28 08:44:00,470 INFO Normal : chair (64.4%)
+2025-10-28 08:44:00,470 INFO Normal : chair (92.8%)
+2025-10-28 08:44:00,537 INFO Normal : chair (88.9%)
+2025-10-28 08:44:00,538 INFO Normal : chair (94.9%)
+2025-10-28 08:44:00,538 INFO Normal : chair (50.9%)
+2025-10-28 08:44:00,538 INFO Normal : chair (99.8%)
+2025-10-28 08:44:00,601 INFO Normal : chair (88.0%)
+2025-10-28 08:44:00,601 INFO Normal : chair (78.5%)
+2025-10-28 08:44:00,602 INFO Normal : chair (87.8%)
+2025-10-28 08:44:00,669 INFO Normal : chair (74.2%)
+2025-10-28 08:44:00,669 INFO Normal : chair (75.0%)
+2025-10-28 08:44:00,670 INFO Normal : chair (94.5%)
+2025-10-28 08:44:00,733 INFO Normal : chair (87.8%)
+2025-10-28 08:44:00,734 INFO Normal : chair (67.8%)
+2025-10-28 08:44:00,734 INFO Normal : chair (99.4%)
+2025-10-28 08:44:00,801 INFO Normal : chair (64.7%)
+2025-10-28 08:44:00,869 INFO Normal : chair (66.7%)
+2025-10-28 08:44:00,870 INFO Normal : chair (98.2%)
+2025-10-28 08:44:00,870 INFO Normal : chair (54.4%)
+2025-10-28 08:44:00,933 INFO Normal : chair (53.2%)
+2025-10-28 08:44:00,933 INFO Normal : chair (78.6%)
+2025-10-28 08:44:00,934 INFO Normal : chair (98.5%)
+2025-10-28 08:44:01,001 INFO Normal : chair (96.0%)
+2025-10-28 08:44:01,065 INFO Normal : chair (73.9%)
+2025-10-28 08:44:01,065 INFO Normal : chair (98.2%)
+2025-10-28 08:44:01,133 INFO Normal : chair (63.9%)
+2025-10-28 08:44:01,133 INFO Normal : chair (99.0%)
+2025-10-28 08:44:01,201 INFO Normal : chair (98.3%)
+2025-10-28 08:44:01,264 INFO Normal : chair (57.3%)
+2025-10-28 08:44:01,332 INFO Normal : chair (80.7%)
+2025-10-28 08:44:01,464 INFO Normal : bench (52.1%)
+2025-10-28 08:44:01,596 INFO ANOMALY: person (51.4%)
+2025-10-28 08:44:01,597 INFO Cooldown skip: reason='Detected: person', wait_global=5.0s
+2025-10-28 08:44:01,665 INFO Normal : bird (84.6%)
+2025-10-28 08:44:01,729 INFO ANOMALY: person (66.1%)
+2025-10-28 08:44:01,729 INFO Cooldown skip: reason='Detected: person', wait_global=4.8s
+2025-10-28 08:44:02,061 INFO Normal : chair (61.3%)
+2025-10-28 08:44:02,061 INFO Normal : suitcase (76.5%)
+2025-10-28 08:44:02,062 INFO Normal : suitcase (59.5%)
+2025-10-28 08:44:02,125 INFO Normal : suitcase (68.2%)
+2025-10-28 08:44:02,193 INFO Normal : suitcase (60.8%)
+2025-10-28 08:44:02,261 INFO Normal : chair (89.2%)
+2025-10-28 08:44:02,262 INFO Normal : suitcase (68.2%)
+2025-10-28 08:44:02,329 INFO Normal : chair (96.2%)
+2025-10-28 08:44:02,393 INFO Normal : chair (77.2%)
+2025-10-28 08:44:02,525 INFO Normal : airplane (79.6%)
+2025-10-28 08:44:02,725 INFO Normal : chair (77.1%)
+2025-10-28 08:44:02,793 INFO Normal : chair (51.5%)
+2025-10-28 08:44:02,858 INFO Normal : chair (71.0%)
+2025-10-28 08:44:02,926 INFO Normal : chair (75.1%)
+2025-10-28 08:44:02,994 INFO Normal : chair (52.1%)
+2025-10-28 08:44:02,994 INFO Normal : chair (71.6%)
+2025-10-28 08:44:03,055 INFO Normal : chair (72.8%)
+2025-10-28 08:44:03,123 INFO Normal : chair (58.7%)
+2025-10-28 08:44:03,123 INFO Normal : chair (81.2%)
+2025-10-28 08:44:03,189 INFO Normal : chair (54.3%)
+2025-10-28 08:44:03,257 INFO Normal : chair (81.1%)
+2025-10-28 08:44:03,325 INFO Normal : chair (82.9%)
+2025-10-28 08:44:03,390 INFO Normal : chair (56.6%)
+2025-10-28 08:44:03,390 INFO Normal : chair (68.6%)
+2025-10-28 08:44:03,458 INFO ANOMALY: person (74.7%)
+2025-10-28 08:44:03,458 INFO Cooldown skip: reason='Detected: person', wait_global=3.1s
+2025-10-28 08:44:03,586 INFO Normal : chair (62.4%)
+2025-10-28 08:44:03,718 INFO Normal : chair (65.9%)
+2025-10-28 08:44:03,790 INFO Normal : chair (67.3%)
+2025-10-28 08:44:03,918 INFO Normal : chair (55.0%)
+2025-10-28 08:44:04,050 INFO Normal : chair (51.2%)
+2025-10-28 08:44:04,181 INFO Normal : airplane (55.5%)
+2025-10-28 08:44:04,314 INFO Normal : chair (50.2%)
+2025-10-28 08:44:04,382 INFO Normal : chair (85.9%)
+2025-10-28 08:44:04,450 INFO Normal : chair (65.8%)
+2025-10-28 08:44:04,514 INFO Normal : chair (76.6%)
+2025-10-28 08:44:04,582 INFO Normal : chair (75.4%)
+2025-10-28 08:44:04,646 INFO Normal : chair (91.4%)
+2025-10-28 08:44:04,714 INFO Normal : chair (90.1%)
+2025-10-28 08:44:04,786 INFO Normal : chair (78.7%)
+2025-10-28 08:44:04,977 INFO Normal : airplane (97.6%)
+2025-10-28 08:44:05,048 INFO Normal : airplane (61.6%)
+2025-10-28 08:44:05,114 INFO Normal : airplane (56.5%)
+2025-10-28 08:44:05,180 INFO Normal : airplane (78.6%)
+2025-10-28 08:44:05,380 INFO Normal : airplane (56.3%)
+2025-10-28 08:44:06,242 INFO Normal : bicycle (61.2%)
+2025-10-28 08:44:06,574 INFO Normal : bicycle (54.0%)
+2025-10-28 08:44:06,906 INFO Normal : bicycle (73.5%)
+2025-10-28 08:44:07,170 INFO Normal : chair (50.3%)
+2025-10-28 08:44:07,238 INFO Normal : chair (72.3%)
+2025-10-28 08:44:07,434 INFO Normal : chair (70.3%)
+2025-10-28 08:44:07,434 INFO Normal : chair (60.3%)
+2025-10-28 08:44:07,503 INFO Normal : chair (52.7%)
+2025-10-28 08:44:07,574 INFO Normal : chair (51.8%)
+2025-10-28 08:44:07,634 INFO Normal : chair (67.6%)
+2025-10-28 08:44:07,634 INFO Normal : chair (50.0%)
+2025-10-28 08:44:07,702 INFO Normal : chair (51.9%)
+2025-10-28 08:44:07,766 INFO Normal : chair (50.1%)
+2025-10-28 08:44:07,834 INFO Normal : chair (53.7%)
+2025-10-28 08:44:07,902 INFO Normal : chair (60.5%)
+2025-10-28 08:44:08,034 INFO Normal : chair (50.9%)
+2025-10-28 08:44:08,098 INFO Normal : chair (61.1%)
+2025-10-28 08:44:08,366 INFO Normal : chair (56.1%)
+2025-10-28 08:44:08,430 INFO Normal : suitcase (62.7%)
+2025-10-28 08:44:08,498 INFO Normal : chair (52.9%)
+2025-10-28 08:44:08,499 INFO Normal : traffic light (69.1%)
+2025-10-28 08:44:08,562 INFO Normal : chair (57.6%)
+2025-10-28 08:44:08,630 INFO Normal : suitcase (57.9%)
+2025-10-28 08:44:08,698 INFO Normal : traffic light (59.4%)
+2025-10-28 08:44:08,894 INFO Normal : chair (55.7%)
+2025-10-28 08:44:09,164 INFO Normal : suitcase (69.5%)
+2025-10-28 08:44:09,226 INFO Normal : chair (67.5%)
+2025-10-28 08:44:09,227 INFO Normal : suitcase (78.5%)
+2025-10-28 08:44:09,296 INFO Normal : suitcase (72.1%)
+2025-10-28 08:44:09,364 INFO Normal : chair (63.2%)
+2025-10-28 08:44:09,365 INFO Normal : suitcase (62.6%)
+2025-10-28 08:44:09,426 INFO Normal : suitcase (51.5%)
+2025-10-28 08:44:09,558 INFO Normal : suitcase (79.7%)
+2025-10-28 08:44:09,627 INFO Normal : suitcase (59.6%)
+2025-10-28 08:44:09,694 INFO Normal : chair (67.2%)
+2025-10-28 08:44:09,695 INFO Normal : suitcase (74.9%)
+2025-10-28 08:44:09,758 INFO Normal : suitcase (77.0%)
+2025-10-28 08:44:09,761 INFO Exit: output closed
+2025-10-28 19:41:25,733 INFO Logging to /jetson-inference/data/assignment/detections_delay.log
+2025-10-28 19:41:31,628 INFO Input=v4l2:///dev/video0 Output=display://0 Anomalies=['laptop', 'person'] MaxPersons=None Cooldown=10.0s per_reason=False
+2025-10-28 19:41:34,835 INFO Normal : toothbrush (81.1%)
+2025-10-28 19:41:34,872 INFO Normal : cat (78.2%)
+2025-10-28 19:41:34,872 INFO Normal : knife (75.9%)
+2025-10-28 19:41:34,950 INFO Normal : cake (54.2%)
+2025-10-28 19:41:34,950 INFO Normal : knife (61.1%)
+2025-10-28 19:41:35,011 INFO Normal : cake (84.1%)
+2025-10-28 19:41:35,011 INFO Normal : knife (60.4%)
+2025-10-28 19:41:35,141 INFO Normal : knife (75.2%)
+2025-10-28 19:41:35,272 INFO ANOMALY: laptop (68.9%)
+2025-10-28 19:41:35,272 INFO Normal : knife (66.3%)
+2025-10-28 19:41:35,401 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194135.jpg
+2025-10-28 19:41:35,413 INFO Normal : knife (87.0%)
+2025-10-28 19:41:35,465 INFO Normal : cat (91.0%)
+2025-10-28 19:41:35,664 INFO ANOMALY: laptop (74.0%)
+2025-10-28 19:41:35,665 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.6s
+2025-10-28 19:41:35,734 INFO Normal : cat (83.5%)
+2025-10-28 19:41:35,798 INFO ANOMALY: laptop (84.2%)
+2025-10-28 19:41:35,798 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.5s
+2025-10-28 19:41:35,863 INFO ANOMALY: laptop (72.3%)
+2025-10-28 19:41:35,864 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.4s
+2025-10-28 19:41:35,935 INFO ANOMALY: laptop (73.0%)
+2025-10-28 19:41:35,935 INFO Normal : cat (79.0%)
+2025-10-28 19:41:35,935 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.3s
+2025-10-28 19:41:35,995 INFO ANOMALY: laptop (67.0%)
+2025-10-28 19:41:35,996 INFO Normal : cat (95.0%)
+2025-10-28 19:41:35,996 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.3s
+2025-10-28 19:41:36,067 INFO ANOMALY: laptop (89.3%)
+2025-10-28 19:41:36,067 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.2s
+2025-10-28 19:41:36,128 INFO ANOMALY: laptop (87.4%)
+2025-10-28 19:41:36,128 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.1s
+2025-10-28 19:41:36,198 INFO ANOMALY: laptop (75.6%)
+2025-10-28 19:41:36,198 INFO Normal : cat (87.8%)
+2025-10-28 19:41:36,198 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.1s
+2025-10-28 19:41:36,266 INFO ANOMALY: laptop (85.7%)
+2025-10-28 19:41:36,266 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.0s
+2025-10-28 19:41:36,330 INFO ANOMALY: laptop (80.9%)
+2025-10-28 19:41:36,330 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.9s
+2025-10-28 19:41:36,398 INFO ANOMALY: laptop (89.8%)
+2025-10-28 19:41:36,399 INFO Normal : cat (73.2%)
+2025-10-28 19:41:36,399 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.9s
+2025-10-28 19:41:36,462 INFO ANOMALY: laptop (54.6%)
+2025-10-28 19:41:36,462 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.8s
+2025-10-28 19:41:36,530 INFO ANOMALY: laptop (71.6%)
+2025-10-28 19:41:36,530 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.7s
+2025-10-28 19:41:36,598 INFO ANOMALY: laptop (76.9%)
+2025-10-28 19:41:36,598 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.7s
+2025-10-28 19:41:36,663 INFO ANOMALY: laptop (90.1%)
+2025-10-28 19:41:36,663 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.6s
+2025-10-28 19:41:36,731 INFO ANOMALY: laptop (92.9%)
+2025-10-28 19:41:36,731 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.5s
+2025-10-28 19:41:36,795 INFO ANOMALY: laptop (95.0%)
+2025-10-28 19:41:36,795 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.5s
+2025-10-28 19:41:36,863 INFO ANOMALY: laptop (90.5%)
+2025-10-28 19:41:36,864 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.4s
+2025-10-28 19:41:36,927 INFO ANOMALY: laptop (92.0%)
+2025-10-28 19:41:36,927 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.3s
+2025-10-28 19:41:36,995 INFO ANOMALY: laptop (86.4%)
+2025-10-28 19:41:36,995 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.3s
+2025-10-28 19:41:37,062 INFO ANOMALY: laptop (94.7%)
+2025-10-28 19:41:37,063 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.2s
+2025-10-28 19:41:37,127 INFO ANOMALY: laptop (95.3%)
+2025-10-28 19:41:37,127 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.1s
+2025-10-28 19:41:37,195 INFO ANOMALY: laptop (91.8%)
+2025-10-28 19:41:37,195 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.1s
+2025-10-28 19:41:37,260 INFO ANOMALY: laptop (94.4%)
+2025-10-28 19:41:37,260 INFO Cooldown skip: reason='Detected: laptop', wait_global=8.0s
+2025-10-28 19:41:37,327 INFO ANOMALY: laptop (92.7%)
+2025-10-28 19:41:37,328 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.9s
+2025-10-28 19:41:37,395 INFO ANOMALY: laptop (93.9%)
+2025-10-28 19:41:37,396 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.9s
+2025-10-28 19:41:37,460 INFO ANOMALY: laptop (92.9%)
+2025-10-28 19:41:37,460 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.8s
+2025-10-28 19:41:37,527 INFO ANOMALY: laptop (93.9%)
+2025-10-28 19:41:37,527 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.7s
+2025-10-28 19:41:37,593 INFO ANOMALY: laptop (90.8%)
+2025-10-28 19:41:37,594 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.7s
+2025-10-28 19:41:37,659 INFO ANOMALY: laptop (94.1%)
+2025-10-28 19:41:37,660 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.6s
+2025-10-28 19:41:37,727 INFO ANOMALY: laptop (93.2%)
+2025-10-28 19:41:37,728 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.5s
+2025-10-28 19:41:37,791 INFO ANOMALY: laptop (88.1%)
+2025-10-28 19:41:37,791 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.5s
+2025-10-28 19:41:37,858 INFO ANOMALY: laptop (92.8%)
+2025-10-28 19:41:37,858 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.4s
+2025-10-28 19:41:37,922 INFO ANOMALY: laptop (96.8%)
+2025-10-28 19:41:37,922 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.4s
+2025-10-28 19:41:38,059 INFO ANOMALY: laptop (91.0%)
+2025-10-28 19:41:38,059 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.2s
+2025-10-28 19:41:38,123 INFO ANOMALY: laptop (93.6%)
+2025-10-28 19:41:38,123 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.1s
+2025-10-28 19:41:38,191 INFO ANOMALY: laptop (94.9%)
+2025-10-28 19:41:38,191 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.1s
+2025-10-28 19:41:38,255 INFO ANOMALY: laptop (92.3%)
+2025-10-28 19:41:38,256 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.0s
+2025-10-28 19:41:38,323 INFO ANOMALY: laptop (95.0%)
+2025-10-28 19:41:38,323 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.9s
+2025-10-28 19:41:38,391 INFO ANOMALY: laptop (93.6%)
+2025-10-28 19:41:38,391 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.9s
+2025-10-28 19:41:38,454 INFO ANOMALY: laptop (95.9%)
+2025-10-28 19:41:38,455 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.8s
+2025-10-28 19:41:38,522 INFO ANOMALY: laptop (90.2%)
+2025-10-28 19:41:38,523 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.7s
+2025-10-28 19:41:38,586 INFO ANOMALY: laptop (87.7%)
+2025-10-28 19:41:38,587 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.7s
+2025-10-28 19:41:38,654 INFO ANOMALY: laptop (88.1%)
+2025-10-28 19:41:38,655 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.6s
+2025-10-28 19:41:38,722 INFO ANOMALY: laptop (85.3%)
+2025-10-28 19:41:38,723 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.5s
+2025-10-28 19:41:38,787 INFO ANOMALY: laptop (89.0%)
+2025-10-28 19:41:38,787 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.5s
+2025-10-28 19:41:38,855 INFO ANOMALY: laptop (70.8%)
+2025-10-28 19:41:38,855 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.4s
+2025-10-28 19:41:38,919 INFO ANOMALY: laptop (71.4%)
+2025-10-28 19:41:38,919 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.4s
+2025-10-28 19:41:38,987 INFO ANOMALY: laptop (69.0%)
+2025-10-28 19:41:38,987 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.3s
+2025-10-28 19:41:39,051 INFO ANOMALY: laptop (69.3%)
+2025-10-28 19:41:39,051 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.2s
+2025-10-28 19:41:39,119 INFO ANOMALY: laptop (85.5%)
+2025-10-28 19:41:39,120 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.2s
+2025-10-28 19:41:39,187 INFO ANOMALY: laptop (86.3%)
+2025-10-28 19:41:39,187 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.1s
+2025-10-28 19:41:39,250 INFO ANOMALY: laptop (65.9%)
+2025-10-28 19:41:39,251 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.0s
+2025-10-28 19:41:39,318 INFO ANOMALY: laptop (71.2%)
+2025-10-28 19:41:39,319 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.0s
+2025-10-28 19:41:39,383 INFO ANOMALY: laptop (80.7%)
+2025-10-28 19:41:39,383 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.9s
+2025-10-28 19:41:39,451 INFO ANOMALY: laptop (71.5%)
+2025-10-28 19:41:39,452 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.8s
+2025-10-28 19:41:39,518 INFO ANOMALY: laptop (75.4%)
+2025-10-28 19:41:39,519 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.8s
+2025-10-28 19:41:39,583 INFO ANOMALY: laptop (76.4%)
+2025-10-28 19:41:39,584 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.7s
+2025-10-28 19:41:39,651 INFO ANOMALY: laptop (64.9%)
+2025-10-28 19:41:39,651 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.6s
+2025-10-28 19:41:39,715 INFO ANOMALY: laptop (76.1%)
+2025-10-28 19:41:39,715 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.6s
+2025-10-28 19:41:39,783 INFO ANOMALY: laptop (88.3%)
+2025-10-28 19:41:39,783 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.5s
+2025-10-28 19:41:39,851 INFO ANOMALY: laptop (59.9%)
+2025-10-28 19:41:39,852 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.4s
+2025-10-28 19:41:39,915 INFO ANOMALY: laptop (78.1%)
+2025-10-28 19:41:39,916 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.4s
+2025-10-28 19:41:39,982 INFO ANOMALY: laptop (75.1%)
+2025-10-28 19:41:39,982 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.3s
+2025-10-28 19:41:40,047 INFO ANOMALY: laptop (64.5%)
+2025-10-28 19:41:40,047 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.2s
+2025-10-28 19:41:40,115 INFO ANOMALY: laptop (85.3%)
+2025-10-28 19:41:40,115 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.2s
+2025-10-28 19:41:40,183 INFO ANOMALY: laptop (78.8%)
+2025-10-28 19:41:40,183 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.1s
+2025-10-28 19:41:40,247 INFO ANOMALY: laptop (54.8%)
+2025-10-28 19:41:40,248 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.0s
+2025-10-28 19:41:40,314 INFO ANOMALY: laptop (80.2%)
+2025-10-28 19:41:40,315 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.0s
+2025-10-28 19:41:40,378 INFO ANOMALY: laptop (69.6%)
+2025-10-28 19:41:40,378 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.9s
+2025-10-28 19:41:40,778 INFO ANOMALY: laptop (94.8%)
+2025-10-28 19:41:40,779 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.5s
+2025-10-28 19:41:40,847 INFO ANOMALY: laptop (89.7%)
+2025-10-28 19:41:40,847 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.4s
+2025-10-28 19:41:40,912 INFO ANOMALY: laptop (95.7%)
+2025-10-28 19:41:40,912 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.4s
+2025-10-28 19:41:40,979 INFO ANOMALY: laptop (89.5%)
+2025-10-28 19:41:40,979 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.3s
+2025-10-28 19:41:41,043 INFO ANOMALY: laptop (95.0%)
+2025-10-28 19:41:41,043 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.2s
+2025-10-28 19:41:41,111 INFO ANOMALY: laptop (93.2%)
+2025-10-28 19:41:41,111 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.2s
+2025-10-28 19:41:41,175 INFO ANOMALY: laptop (95.5%)
+2025-10-28 19:41:41,175 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.1s
+2025-10-28 19:41:41,243 INFO ANOMALY: laptop (96.3%)
+2025-10-28 19:41:41,243 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.0s
+2025-10-28 19:41:41,311 INFO ANOMALY: laptop (92.4%)
+2025-10-28 19:41:41,311 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.0s
+2025-10-28 19:41:41,375 INFO ANOMALY: laptop (76.3%)
+2025-10-28 19:41:41,375 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.9s
+2025-10-28 19:41:41,442 INFO ANOMALY: laptop (67.2%)
+2025-10-28 19:41:41,443 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 19:41:41,506 INFO ANOMALY: laptop (66.4%)
+2025-10-28 19:41:41,507 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 19:41:41,575 INFO ANOMALY: laptop (94.8%)
+2025-10-28 19:41:41,575 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.7s
+2025-10-28 19:41:41,642 INFO ANOMALY: laptop (66.5%)
+2025-10-28 19:41:41,643 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.6s
+2025-10-28 19:41:41,775 INFO ANOMALY: laptop (91.9%)
+2025-10-28 19:41:41,775 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.5s
+2025-10-28 19:41:41,839 INFO ANOMALY: laptop (85.4%)
+2025-10-28 19:41:41,839 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 19:41:41,907 INFO ANOMALY: laptop (79.8%)
+2025-10-28 19:41:41,907 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 19:41:41,975 INFO ANOMALY: laptop (95.0%)
+2025-10-28 19:41:41,976 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.3s
+2025-10-28 19:41:42,040 INFO ANOMALY: laptop (93.3%)
+2025-10-28 19:41:42,040 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.2s
+2025-10-28 19:41:42,108 INFO ANOMALY: laptop (88.1%)
+2025-10-28 19:41:42,108 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.2s
+2025-10-28 19:41:42,172 INFO ANOMALY: laptop (87.3%)
+2025-10-28 19:41:42,172 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.1s
+2025-10-28 19:41:42,240 INFO ANOMALY: laptop (91.7%)
+2025-10-28 19:41:42,240 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.0s
+2025-10-28 19:41:42,304 INFO ANOMALY: laptop (88.0%)
+2025-10-28 19:41:42,305 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.0s
+2025-10-28 19:41:42,370 INFO ANOMALY: laptop (84.7%)
+2025-10-28 19:41:42,370 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.9s
+2025-10-28 19:41:42,440 INFO ANOMALY: laptop (88.1%)
+2025-10-28 19:41:42,440 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.8s
+2025-10-28 19:41:42,501 INFO ANOMALY: laptop (80.2%)
+2025-10-28 19:41:42,501 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.8s
+2025-10-28 19:41:42,572 INFO ANOMALY: laptop (77.9%)
+2025-10-28 19:41:42,572 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.7s
+2025-10-28 19:41:42,639 INFO ANOMALY: laptop (76.9%)
+2025-10-28 19:41:42,640 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.6s
+2025-10-28 19:41:42,701 INFO ANOMALY: laptop (75.4%)
+2025-10-28 19:41:42,701 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.6s
+2025-10-28 19:41:42,772 INFO ANOMALY: laptop (75.6%)
+2025-10-28 19:41:42,772 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.5s
+2025-10-28 19:41:42,835 INFO ANOMALY: laptop (80.3%)
+2025-10-28 19:41:42,836 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.4s
+2025-10-28 19:41:42,903 INFO ANOMALY: laptop (88.4%)
+2025-10-28 19:41:42,904 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.4s
+2025-10-28 19:41:42,971 INFO ANOMALY: laptop (88.9%)
+2025-10-28 19:41:42,972 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.3s
+2025-10-28 19:41:43,031 INFO ANOMALY: laptop (85.4%)
+2025-10-28 19:41:43,031 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.2s
+2025-10-28 19:41:43,434 INFO Normal : mouse (53.4%)
+2025-10-28 19:41:43,499 INFO Normal : mouse (67.8%)
+2025-10-28 19:41:43,499 INFO Normal : cell phone (74.6%)
+2025-10-28 19:41:43,567 INFO ANOMALY: laptop (76.1%)
+2025-10-28 19:41:43,568 INFO Normal : cell phone (96.3%)
+2025-10-28 19:41:43,568 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.7s
+2025-10-28 19:41:43,629 INFO ANOMALY: laptop (50.1%)
+2025-10-28 19:41:43,630 INFO Normal : cell phone (92.7%)
+2025-10-28 19:41:43,630 INFO Normal : keyboard (50.2%)
+2025-10-28 19:41:43,630 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.6s
+2025-10-28 19:41:43,696 INFO ANOMALY: laptop (64.6%)
+2025-10-28 19:41:43,697 INFO Normal : cell phone (83.5%)
+2025-10-28 19:41:43,697 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.6s
+2025-10-28 19:41:43,767 INFO ANOMALY: laptop (67.2%)
+2025-10-28 19:41:43,768 INFO Normal : cell phone (94.2%)
+2025-10-28 19:41:43,768 INFO Normal : remote (58.2%)
+2025-10-28 19:41:43,768 INFO Normal : mouse (52.8%)
+2025-10-28 19:41:43,768 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.5s
+2025-10-28 19:41:43,829 INFO Normal : cell phone (95.3%)
+2025-10-28 19:41:43,829 INFO Normal : remote (62.2%)
+2025-10-28 19:41:43,829 INFO Normal : mouse (64.3%)
+2025-10-28 19:41:43,896 INFO ANOMALY: laptop (63.7%)
+2025-10-28 19:41:43,897 INFO Normal : cell phone (95.9%)
+2025-10-28 19:41:43,897 INFO Normal : mouse (70.5%)
+2025-10-28 19:41:43,897 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.4s
+2025-10-28 19:41:43,960 INFO ANOMALY: laptop (53.3%)
+2025-10-28 19:41:43,961 INFO Normal : cell phone (90.6%)
+2025-10-28 19:41:43,961 INFO Normal : mouse (82.8%)
+2025-10-28 19:41:43,961 INFO Cooldown skip: reason='Detected: laptop', wait_global=1.3s
+2025-10-28 19:41:44,031 INFO Normal : cell phone (92.2%)
+2025-10-28 19:41:44,031 INFO Normal : remote (56.4%)
+2025-10-28 19:41:44,031 INFO Normal : mouse (83.7%)
+2025-10-28 19:41:44,100 INFO Normal : cell phone (88.3%)
+2025-10-28 19:41:44,100 INFO Normal : remote (55.9%)
+2025-10-28 19:41:44,100 INFO Normal : mouse (89.6%)
+2025-10-28 19:41:44,163 INFO Normal : cell phone (95.6%)
+2025-10-28 19:41:44,164 INFO Normal : remote (87.8%)
+2025-10-28 19:41:44,164 INFO Normal : mouse (90.1%)
+2025-10-28 19:41:44,229 INFO Normal : cell phone (96.5%)
+2025-10-28 19:41:44,230 INFO Normal : mouse (90.0%)
+2025-10-28 19:41:44,294 INFO Normal : cell phone (91.6%)
+2025-10-28 19:41:44,294 INFO Normal : mouse (93.0%)
+2025-10-28 19:41:44,363 INFO Normal : cell phone (87.4%)
+2025-10-28 19:41:44,364 INFO Normal : mouse (93.6%)
+2025-10-28 19:41:44,431 INFO Normal : cell phone (94.2%)
+2025-10-28 19:41:44,432 INFO Normal : keyboard (62.0%)
+2025-10-28 19:41:44,432 INFO Normal : mouse (97.1%)
+2025-10-28 19:41:44,495 INFO Normal : cell phone (79.3%)
+2025-10-28 19:41:44,496 INFO Normal : keyboard (51.4%)
+2025-10-28 19:41:44,496 INFO Normal : mouse (96.5%)
+2025-10-28 19:41:44,563 INFO Normal : cell phone (94.6%)
+2025-10-28 19:41:44,563 INFO Normal : mouse (96.6%)
+2025-10-28 19:41:44,627 INFO Normal : keyboard (50.7%)
+2025-10-28 19:41:44,628 INFO Normal : cell phone (95.9%)
+2025-10-28 19:41:44,628 INFO Normal : mouse (97.0%)
+2025-10-28 19:41:44,695 INFO Normal : cell phone (94.9%)
+2025-10-28 19:41:44,696 INFO Normal : mouse (97.8%)
+2025-10-28 19:41:44,763 INFO Normal : cell phone (96.4%)
+2025-10-28 19:41:44,764 INFO Normal : mouse (97.3%)
+2025-10-28 19:41:44,827 INFO Normal : cell phone (81.2%)
+2025-10-28 19:41:44,827 INFO Normal : mouse (96.0%)
+2025-10-28 19:41:44,895 INFO Normal : cell phone (67.7%)
+2025-10-28 19:41:44,896 INFO Normal : mouse (98.0%)
+2025-10-28 19:41:44,958 INFO Normal : cell phone (83.9%)
+2025-10-28 19:41:44,959 INFO Normal : mouse (96.4%)
+2025-10-28 19:41:45,027 INFO Normal : cell phone (96.0%)
+2025-10-28 19:41:45,028 INFO Normal : mouse (97.4%)
+2025-10-28 19:41:45,095 INFO Normal : cell phone (79.5%)
+2025-10-28 19:41:45,096 INFO Normal : mouse (97.5%)
+2025-10-28 19:41:45,159 INFO Normal : cell phone (88.2%)
+2025-10-28 19:41:45,160 INFO Normal : mouse (95.8%)
+2025-10-28 19:41:45,227 INFO Normal : cell phone (93.9%)
+2025-10-28 19:41:45,228 INFO Normal : mouse (96.4%)
+2025-10-28 19:41:45,291 INFO Normal : cell phone (90.2%)
+2025-10-28 19:41:45,291 INFO Normal : mouse (97.4%)
+2025-10-28 19:41:45,359 INFO Normal : cell phone (93.1%)
+2025-10-28 19:41:45,360 INFO Normal : mouse (97.4%)
+2025-10-28 19:41:45,427 INFO Normal : cell phone (92.5%)
+2025-10-28 19:41:45,428 INFO Normal : mouse (98.2%)
+2025-10-28 19:41:45,491 INFO Normal : cell phone (94.2%)
+2025-10-28 19:41:45,491 INFO Normal : mouse (97.9%)
+2025-10-28 19:41:45,559 INFO Normal : cell phone (95.5%)
+2025-10-28 19:41:45,560 INFO Normal : mouse (98.5%)
+2025-10-28 19:41:45,623 INFO Normal : cell phone (92.7%)
+2025-10-28 19:41:45,624 INFO Normal : mouse (95.6%)
+2025-10-28 19:41:45,692 INFO Normal : cell phone (70.2%)
+2025-10-28 19:41:45,692 INFO Normal : mouse (95.8%)
+2025-10-28 19:41:45,755 INFO Normal : cell phone (90.1%)
+2025-10-28 19:41:45,756 INFO Normal : mouse (97.1%)
+2025-10-28 19:41:45,823 INFO Normal : cell phone (93.1%)
+2025-10-28 19:41:45,824 INFO Normal : mouse (97.2%)
+2025-10-28 19:41:45,892 INFO Normal : cell phone (69.0%)
+2025-10-28 19:41:45,892 INFO Normal : mouse (96.4%)
+2025-10-28 19:41:45,955 INFO Normal : mouse (97.4%)
+2025-10-28 19:41:46,023 INFO Normal : cell phone (79.9%)
+2025-10-28 19:41:46,024 INFO Normal : mouse (97.3%)
+2025-10-28 19:41:46,087 INFO Normal : cell phone (91.2%)
+2025-10-28 19:41:46,088 INFO Normal : mouse (97.5%)
+2025-10-28 19:41:46,155 INFO Normal : cell phone (86.6%)
+2025-10-28 19:41:46,156 INFO Normal : mouse (98.3%)
+2025-10-28 19:41:46,223 INFO Normal : cell phone (82.8%)
+2025-10-28 19:41:46,224 INFO Normal : mouse (95.4%)
+2025-10-28 19:41:46,287 INFO Normal : cell phone (93.0%)
+2025-10-28 19:41:46,288 INFO Normal : mouse (97.1%)
+2025-10-28 19:41:46,355 INFO Normal : cell phone (96.2%)
+2025-10-28 19:41:46,356 INFO Normal : mouse (98.0%)
+2025-10-28 19:41:46,419 INFO Normal : cell phone (91.1%)
+2025-10-28 19:41:46,420 INFO Normal : mouse (98.1%)
+2025-10-28 19:41:46,487 INFO Normal : cell phone (93.8%)
+2025-10-28 19:41:46,488 INFO Normal : mouse (97.9%)
+2025-10-28 19:41:46,555 INFO Normal : cell phone (95.2%)
+2025-10-28 19:41:46,556 INFO Normal : mouse (98.4%)
+2025-10-28 19:41:46,615 INFO Normal : cell phone (79.9%)
+2025-10-28 19:41:46,616 INFO Normal : mouse (94.7%)
+2025-10-28 19:41:46,687 INFO Normal : cell phone (96.2%)
+2025-10-28 19:41:46,688 INFO Normal : mouse (95.6%)
+2025-10-28 19:41:46,748 INFO Normal : cell phone (93.8%)
+2025-10-28 19:41:46,748 INFO Normal : mouse (94.6%)
+2025-10-28 19:41:46,819 INFO Normal : cell phone (97.3%)
+2025-10-28 19:41:46,820 INFO Normal : mouse (96.2%)
+2025-10-28 19:41:46,887 INFO Normal : cell phone (98.0%)
+2025-10-28 19:41:46,887 INFO Normal : mouse (80.4%)
+2025-10-28 19:41:46,951 INFO Normal : cell phone (96.5%)
+2025-10-28 19:41:46,951 INFO Normal : mouse (87.8%)
+2025-10-28 19:41:47,019 INFO Normal : cell phone (93.4%)
+2025-10-28 19:41:47,019 INFO Normal : mouse (80.8%)
+2025-10-28 19:41:47,083 INFO Normal : cell phone (85.8%)
+2025-10-28 19:41:47,083 INFO Normal : mouse (74.9%)
+2025-10-28 19:41:47,151 INFO Normal : cell phone (96.9%)
+2025-10-28 19:41:47,151 INFO Normal : mouse (87.7%)
+2025-10-28 19:41:47,219 INFO Normal : cell phone (88.4%)
+2025-10-28 19:41:47,219 INFO Normal : remote (56.3%)
+2025-10-28 19:41:47,219 INFO Normal : mouse (88.1%)
+2025-10-28 19:41:47,283 INFO Normal : cell phone (89.6%)
+2025-10-28 19:41:47,351 INFO Normal : cell phone (96.1%)
+2025-10-28 19:41:47,351 INFO Normal : mouse (62.1%)
+2025-10-28 19:41:47,412 INFO Normal : cell phone (86.7%)
+2025-10-28 19:41:47,412 INFO Normal : mouse (74.0%)
+2025-10-28 19:41:47,483 INFO Normal : cell phone (77.9%)
+2025-10-28 19:41:47,484 INFO Normal : mouse (59.7%)
+2025-10-28 19:41:47,548 INFO Normal : cell phone (91.9%)
+2025-10-28 19:41:47,548 INFO Normal : mouse (92.8%)
+2025-10-28 19:41:47,615 INFO Normal : cell phone (88.6%)
+2025-10-28 19:41:47,615 INFO Normal : mouse (81.8%)
+2025-10-28 19:41:47,683 INFO Normal : cell phone (86.4%)
+2025-10-28 19:41:47,684 INFO Normal : mouse (85.4%)
+2025-10-28 19:41:47,747 INFO Normal : cell phone (88.4%)
+2025-10-28 19:41:47,747 INFO Normal : keyboard (55.1%)
+2025-10-28 19:41:47,814 INFO Normal : keyboard (51.0%)
+2025-10-28 19:41:47,882 INFO ANOMALY: person (63.7%)
+2025-10-28 19:41:48,010 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194147.jpg
+2025-10-28 19:41:48,276 INFO Normal : remote (88.7%)
+2025-10-28 19:41:48,348 INFO Normal : keyboard (81.9%)
+2025-10-28 19:41:48,480 INFO Normal : keyboard (78.5%)
+2025-10-28 19:41:48,480 INFO ANOMALY: laptop (53.6%)
+2025-10-28 19:41:48,481 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.4s
+2025-10-28 19:41:48,543 INFO Normal : keyboard (60.8%)
+2025-10-28 19:41:48,612 INFO Normal : keyboard (84.1%)
+2025-10-28 19:41:48,680 INFO Normal : keyboard (77.9%)
+2025-10-28 19:41:48,743 INFO Normal : keyboard (80.5%)
+2025-10-28 19:41:48,812 INFO Normal : keyboard (83.7%)
+2025-10-28 19:41:48,876 INFO Normal : keyboard (80.5%)
+2025-10-28 19:41:48,943 INFO Normal : keyboard (80.1%)
+2025-10-28 19:41:49,011 INFO Normal : keyboard (81.2%)
+2025-10-28 19:41:49,075 INFO Normal : keyboard (82.4%)
+2025-10-28 19:41:49,143 INFO Normal : keyboard (80.1%)
+2025-10-28 19:41:49,207 INFO Normal : keyboard (83.8%)
+2025-10-28 19:41:49,276 INFO Normal : keyboard (86.7%)
+2025-10-28 19:41:49,343 INFO Normal : keyboard (81.4%)
+2025-10-28 19:41:49,407 INFO Normal : keyboard (79.6%)
+2025-10-28 19:41:49,476 INFO Normal : keyboard (84.3%)
+2025-10-28 19:41:49,540 INFO Normal : keyboard (89.3%)
+2025-10-28 19:41:49,608 INFO Normal : keyboard (90.3%)
+2025-10-28 19:41:49,676 INFO Normal : keyboard (88.7%)
+2025-10-28 19:41:49,739 INFO Normal : keyboard (85.5%)
+2025-10-28 19:41:49,808 INFO Normal : keyboard (78.3%)
+2025-10-28 19:41:50,202 INFO Normal : mouse (93.2%)
+2025-10-28 19:41:50,271 INFO Normal : keyboard (57.4%)
+2025-10-28 19:41:50,271 INFO Normal : mouse (89.6%)
+2025-10-28 19:41:50,334 INFO Normal : mouse (97.4%)
+2025-10-28 19:41:50,402 INFO Normal : mouse (91.2%)
+2025-10-28 19:41:50,470 INFO Normal : mouse (96.8%)
+2025-10-28 19:41:50,535 INFO Normal : mouse (96.8%)
+2025-10-28 19:41:50,603 INFO Normal : cell phone (88.9%)
+2025-10-28 19:41:50,603 INFO Normal : mouse (94.3%)
+2025-10-28 19:41:50,667 INFO Normal : cell phone (76.3%)
+2025-10-28 19:41:50,668 INFO ANOMALY: laptop (66.5%)
+2025-10-28 19:41:50,668 INFO Normal : mouse (97.8%)
+2025-10-28 19:41:50,668 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.2s
+2025-10-28 19:41:50,735 INFO Normal : cell phone (83.3%)
+2025-10-28 19:41:50,736 INFO ANOMALY: laptop (54.5%)
+2025-10-28 19:41:50,736 INFO Normal : mouse (98.6%)
+2025-10-28 19:41:50,736 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.1s
+2025-10-28 19:41:50,803 INFO ANOMALY: laptop (57.8%)
+2025-10-28 19:41:50,804 INFO Normal : mouse (97.8%)
+2025-10-28 19:41:50,804 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.1s
+2025-10-28 19:41:50,867 INFO ANOMALY: laptop (63.0%)
+2025-10-28 19:41:50,868 INFO Normal : mouse (95.2%)
+2025-10-28 19:41:50,868 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.0s
+2025-10-28 19:41:50,935 INFO ANOMALY: laptop (60.5%)
+2025-10-28 19:41:50,935 INFO Normal : mouse (96.8%)
+2025-10-28 19:41:50,936 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.9s
+2025-10-28 19:41:50,999 INFO Normal : cell phone (61.9%)
+2025-10-28 19:41:51,000 INFO Normal : mouse (97.0%)
+2025-10-28 19:41:51,068 INFO Normal : cell phone (72.0%)
+2025-10-28 19:41:51,068 INFO ANOMALY: laptop (50.8%)
+2025-10-28 19:41:51,068 INFO Normal : mouse (96.4%)
+2025-10-28 19:41:51,068 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.8s
+2025-10-28 19:41:51,135 INFO Normal : cell phone (71.2%)
+2025-10-28 19:41:51,136 INFO Normal : mouse (91.6%)
+2025-10-28 19:41:51,199 INFO Normal : cell phone (71.7%)
+2025-10-28 19:41:51,200 INFO ANOMALY: laptop (63.2%)
+2025-10-28 19:41:51,200 INFO Normal : mouse (96.0%)
+2025-10-28 19:41:51,200 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.7s
+2025-10-28 19:41:51,267 INFO ANOMALY: laptop (77.9%)
+2025-10-28 19:41:51,268 INFO Normal : mouse (96.9%)
+2025-10-28 19:41:51,268 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.6s
+2025-10-28 19:41:51,331 INFO Normal : cell phone (60.4%)
+2025-10-28 19:41:51,331 INFO ANOMALY: laptop (54.5%)
+2025-10-28 19:41:51,332 INFO Normal : mouse (96.4%)
+2025-10-28 19:41:51,332 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.6s
+2025-10-28 19:41:51,399 INFO Normal : cell phone (90.2%)
+2025-10-28 19:41:51,399 INFO Normal : mouse (97.9%)
+2025-10-28 19:41:51,467 INFO Normal : cell phone (78.9%)
+2025-10-28 19:41:51,468 INFO Normal : mouse (97.4%)
+2025-10-28 19:41:51,531 INFO Normal : cell phone (87.3%)
+2025-10-28 19:41:51,532 INFO Normal : mouse (94.8%)
+2025-10-28 19:41:51,599 INFO Normal : cell phone (53.7%)
+2025-10-28 19:41:51,600 INFO ANOMALY: laptop (64.4%)
+2025-10-28 19:41:51,600 INFO Normal : mouse (91.0%)
+2025-10-28 19:41:51,600 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.3s
+2025-10-28 19:41:51,663 INFO Normal : mouse (92.2%)
+2025-10-28 19:41:51,730 INFO Normal : mouse (58.9%)
+2025-10-28 19:41:51,862 INFO Normal : keyboard (91.2%)
+2025-10-28 19:41:51,863 INFO Normal : mouse (96.0%)
+2025-10-28 19:41:52,263 INFO Normal : cell phone (68.8%)
+2025-10-28 19:41:52,263 INFO ANOMALY: laptop (56.5%)
+2025-10-28 19:41:52,263 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.6s
+2025-10-28 19:41:52,327 INFO ANOMALY: laptop (60.2%)
+2025-10-28 19:41:52,327 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.6s
+2025-10-28 19:41:52,395 INFO Normal : mouse (90.2%)
+2025-10-28 19:41:52,459 INFO Normal : mouse (52.6%)
+2025-10-28 19:41:52,527 INFO Normal : cell phone (78.3%)
+2025-10-28 19:41:52,596 INFO Normal : cell phone (88.1%)
+2025-10-28 19:41:52,659 INFO Normal : cell phone (91.7%)
+2025-10-28 19:41:52,727 INFO Normal : cell phone (55.1%)
+2025-10-28 19:41:52,792 INFO Normal : cell phone (91.5%)
+2025-10-28 19:41:52,860 INFO Normal : cell phone (66.6%)
+2025-10-28 19:41:52,928 INFO Normal : cell phone (87.5%)
+2025-10-28 19:41:52,992 INFO Normal : cell phone (93.6%)
+2025-10-28 19:41:53,060 INFO ANOMALY: laptop (66.3%)
+2025-10-28 19:41:53,060 INFO Normal : cell phone (92.3%)
+2025-10-28 19:41:53,060 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.8s
+2025-10-28 19:41:53,124 INFO ANOMALY: laptop (72.5%)
+2025-10-28 19:41:53,124 INFO Normal : cell phone (91.3%)
+2025-10-28 19:41:53,124 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.8s
+2025-10-28 19:41:53,192 INFO ANOMALY: laptop (85.8%)
+2025-10-28 19:41:53,192 INFO Normal : cell phone (89.5%)
+2025-10-28 19:41:53,193 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.7s
+2025-10-28 19:41:53,260 INFO ANOMALY: laptop (70.7%)
+2025-10-28 19:41:53,260 INFO Normal : cell phone (95.9%)
+2025-10-28 19:41:53,261 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.6s
+2025-10-28 19:41:53,324 INFO ANOMALY: laptop (75.2%)
+2025-10-28 19:41:53,324 INFO Normal : cell phone (93.5%)
+2025-10-28 19:41:53,324 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.6s
+2025-10-28 19:41:53,392 INFO Normal : cell phone (95.2%)
+2025-10-28 19:41:53,456 INFO ANOMALY: laptop (90.2%)
+2025-10-28 19:41:53,456 INFO Normal : cell phone (87.0%)
+2025-10-28 19:41:53,456 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.4s
+2025-10-28 19:41:53,523 INFO Normal : cell phone (82.7%)
+2025-10-28 19:41:53,524 INFO ANOMALY: laptop (71.4%)
+2025-10-28 19:41:53,524 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.4s
+2025-10-28 19:41:53,591 INFO ANOMALY: laptop (87.5%)
+2025-10-28 19:41:53,592 INFO Normal : cell phone (58.6%)
+2025-10-28 19:41:53,592 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.3s
+2025-10-28 19:41:53,655 INFO Normal : mouse (62.6%)
+2025-10-28 19:41:53,656 INFO ANOMALY: laptop (50.5%)
+2025-10-28 19:41:53,656 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.2s
+2025-10-28 19:41:53,724 INFO ANOMALY: laptop (69.0%)
+2025-10-28 19:41:53,725 INFO Normal : cell phone (83.0%)
+2025-10-28 19:41:53,725 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.2s
+2025-10-28 19:41:53,788 INFO ANOMALY: laptop (53.2%)
+2025-10-28 19:41:53,788 INFO Normal : cell phone (96.3%)
+2025-10-28 19:41:53,788 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.1s
+2025-10-28 19:41:53,856 INFO Normal : cell phone (89.5%)
+2025-10-28 19:41:53,856 INFO ANOMALY: laptop (79.6%)
+2025-10-28 19:41:53,856 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.0s
+2025-10-28 19:41:53,924 INFO ANOMALY: laptop (84.2%)
+2025-10-28 19:41:53,924 INFO Normal : cell phone (92.9%)
+2025-10-28 19:41:53,924 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.0s
+2025-10-28 19:41:53,988 INFO ANOMALY: laptop (66.6%)
+2025-10-28 19:41:53,988 INFO Normal : cell phone (92.1%)
+2025-10-28 19:41:53,988 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.9s
+2025-10-28 19:41:54,056 INFO ANOMALY: laptop (86.1%)
+2025-10-28 19:41:54,056 INFO Normal : cell phone (86.1%)
+2025-10-28 19:41:54,056 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 19:41:54,120 INFO ANOMALY: laptop (78.7%)
+2025-10-28 19:41:54,120 INFO Normal : cell phone (86.0%)
+2025-10-28 19:41:54,121 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 19:41:54,188 INFO ANOMALY: laptop (88.6%)
+2025-10-28 19:41:54,189 INFO Normal : cell phone (83.4%)
+2025-10-28 19:41:54,189 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.7s
+2025-10-28 19:41:54,256 INFO ANOMALY: laptop (71.8%)
+2025-10-28 19:41:54,257 INFO Normal : cell phone (96.4%)
+2025-10-28 19:41:54,257 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.6s
+2025-10-28 19:41:54,320 INFO ANOMALY: laptop (80.5%)
+2025-10-28 19:41:54,320 INFO Normal : cell phone (91.8%)
+2025-10-28 19:41:54,320 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.6s
+2025-10-28 19:41:54,390 INFO ANOMALY: laptop (77.2%)
+2025-10-28 19:41:54,390 INFO Normal : cell phone (90.2%)
+2025-10-28 19:41:54,390 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.5s
+2025-10-28 19:41:54,454 INFO ANOMALY: laptop (91.0%)
+2025-10-28 19:41:54,454 INFO Normal : cell phone (83.4%)
+2025-10-28 19:41:54,454 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 19:41:54,521 INFO ANOMALY: laptop (70.8%)
+2025-10-28 19:41:54,521 INFO Normal : mouse (76.9%)
+2025-10-28 19:41:54,521 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.4s
+2025-10-28 19:41:54,589 INFO Normal : mouse (57.9%)
+2025-10-28 19:41:54,852 INFO Normal : mouse (79.0%)
+2025-10-28 19:41:54,916 INFO Normal : mouse (95.1%)
+2025-10-28 19:41:54,984 INFO Normal : mouse (82.8%)
+2025-10-28 19:41:55,052 INFO Normal : mouse (94.7%)
+2025-10-28 19:41:55,318 INFO Normal : mouse (55.2%)
+2025-10-28 19:41:55,385 INFO Normal : mouse (52.4%)
+2025-10-28 19:41:55,449 INFO Normal : mouse (69.5%)
+2025-10-28 19:41:55,517 INFO Normal : mouse (69.1%)
+2025-10-28 19:41:55,581 INFO Normal : mouse (66.1%)
+2025-10-28 19:41:55,649 INFO Normal : mouse (64.6%)
+2025-10-28 19:41:55,717 INFO Normal : mouse (66.7%)
+2025-10-28 19:41:55,780 INFO Normal : mouse (71.0%)
+2025-10-28 19:41:55,912 INFO ANOMALY: person (57.3%)
+2025-10-28 19:41:55,912 INFO Cooldown skip: reason='Detected: person', wait_global=2.0s
+2025-10-28 19:41:56,049 INFO Normal : bed (56.0%)
+2025-10-28 19:41:56,113 INFO Normal : bed (57.6%)
+2025-10-28 19:41:56,244 INFO Normal : tie (74.2%)
+2025-10-28 19:41:56,311 INFO Normal : keyboard (90.2%)
+2025-10-28 19:41:56,382 INFO Normal : keyboard (92.5%)
+2025-10-28 19:41:56,446 INFO Normal : keyboard (90.2%)
+2025-10-28 19:41:56,514 INFO Normal : keyboard (89.8%)
+2025-10-28 19:41:56,578 INFO Normal : keyboard (88.4%)
+2025-10-28 19:41:56,646 INFO Normal : keyboard (90.7%)
+2025-10-28 19:41:56,715 INFO Normal : keyboard (90.8%)
+2025-10-28 19:41:56,779 INFO Normal : keyboard (91.9%)
+2025-10-28 19:41:56,846 INFO Normal : keyboard (89.8%)
+2025-10-28 19:41:56,911 INFO Normal : keyboard (90.7%)
+2025-10-28 19:41:56,978 INFO Normal : keyboard (90.6%)
+2025-10-28 19:41:57,043 INFO Normal : keyboard (91.0%)
+2025-10-28 19:41:57,110 INFO Normal : keyboard (88.4%)
+2025-10-28 19:41:57,178 INFO Normal : keyboard (89.8%)
+2025-10-28 19:41:57,373 INFO Normal : keyboard (60.6%)
+2025-10-28 19:41:57,509 INFO Normal : keyboard (76.6%)
+2025-10-28 19:41:57,573 INFO Normal : keyboard (86.9%)
+2025-10-28 19:41:57,704 INFO Normal : remote (79.4%)
+2025-10-28 19:41:57,773 INFO Normal : remote (78.5%)
+2025-10-28 19:41:57,904 INFO Normal : keyboard (54.2%)
+2025-10-28 19:41:58,036 INFO Normal : remote (80.3%)
+2025-10-28 19:41:58,103 INFO ANOMALY: laptop (65.3%)
+2025-10-28 19:41:58,226 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194158.jpg
+2025-10-28 19:41:58,245 INFO ANOMALY: laptop (65.0%)
+2025-10-28 19:41:58,245 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.9s
+2025-10-28 19:41:58,568 INFO ANOMALY: person (51.5%)
+2025-10-28 19:41:58,569 INFO Cooldown skip: reason='Detected: person', wait_global=9.5s
+2025-10-28 19:41:58,636 INFO ANOMALY: laptop (56.5%)
+2025-10-28 19:41:58,636 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.5s
+2025-10-28 19:41:58,768 INFO Normal : umbrella (68.5%)
+2025-10-28 19:41:58,836 INFO Normal : bed (59.8%)
+2025-10-28 19:41:58,914 INFO Normal : tie (95.8%)
+2025-10-28 19:41:58,996 INFO ANOMALY: laptop (79.0%)
+2025-10-28 19:41:58,997 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.1s
+2025-10-28 19:41:59,039 INFO ANOMALY: laptop (81.0%)
+2025-10-28 19:41:59,039 INFO Cooldown skip: reason='Detected: laptop', wait_global=9.1s
+2025-10-28 19:41:59,088 INFO ANOMALY: person (76.0%)
+2025-10-28 19:41:59,089 INFO Cooldown skip: reason='Detected: person', wait_global=9.0s
+2025-10-28 19:41:59,246 INFO Normal : chair (72.7%)
+2025-10-28 19:41:59,332 INFO ANOMALY: person (58.7%)
+2025-10-28 19:41:59,332 INFO Cooldown skip: reason='Detected: person', wait_global=8.8s
+2025-10-28 19:42:00,327 INFO Normal : mouse (69.0%)
+2025-10-28 19:42:00,395 INFO Normal : cup (74.0%)
+2025-10-28 19:42:00,396 INFO Normal : mouse (80.1%)
+2025-10-28 19:42:00,591 INFO Normal : scissors (54.1%)
+2025-10-28 19:42:00,591 INFO Normal : cup (66.5%)
+2025-10-28 19:42:00,659 INFO Normal : cup (78.1%)
+2025-10-28 19:42:00,727 INFO Normal : cup (93.7%)
+2025-10-28 19:42:00,791 INFO Normal : dining table (54.0%)
+2025-10-28 19:42:00,792 INFO Normal : cup (84.4%)
+2025-10-28 19:42:00,859 INFO Normal : cup (90.0%)
+2025-10-28 19:42:00,923 INFO Normal : cup (62.6%)
+2025-10-28 19:42:00,991 INFO Normal : cup (93.3%)
+2025-10-28 19:42:01,059 INFO Normal : cup (92.4%)
+2025-10-28 19:42:01,123 INFO Normal : cup (92.8%)
+2025-10-28 19:42:01,191 INFO Normal : cup (94.3%)
+2025-10-28 19:42:01,256 INFO Normal : cup (95.0%)
+2025-10-28 19:42:01,324 INFO Normal : cup (91.4%)
+2025-10-28 19:42:01,392 INFO Normal : cup (88.6%)
+2025-10-28 19:42:01,456 INFO Normal : cup (93.2%)
+2025-10-28 19:42:01,524 INFO Normal : cup (95.4%)
+2025-10-28 19:42:01,588 INFO Normal : cup (93.1%)
+2025-10-28 19:42:01,656 INFO Normal : cup (89.9%)
+2025-10-28 19:42:01,724 INFO Normal : cup (88.5%)
+2025-10-28 19:42:01,787 INFO Normal : cup (87.1%)
+2025-10-28 19:42:01,855 INFO Normal : toilet (55.4%)
+2025-10-28 19:42:02,120 INFO Normal : book (55.6%)
+2025-10-28 19:42:02,187 INFO Normal : book (55.4%)
+2025-10-28 19:42:02,782 INFO Normal : bench (88.6%)
+2025-10-28 19:42:02,850 INFO Normal : keyboard (91.1%)
+2025-10-28 19:42:02,914 INFO Normal : keyboard (92.5%)
+2025-10-28 19:42:02,983 INFO Normal : keyboard (75.8%)
+2025-10-28 19:42:03,046 INFO Normal : keyboard (55.7%)
+2025-10-28 19:42:03,909 INFO ANOMALY: laptop (68.2%)
+2025-10-28 19:42:03,909 INFO Normal : keyboard (57.3%)
+2025-10-28 19:42:03,909 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.2s
+2025-10-28 19:42:03,979 INFO ANOMALY: laptop (62.1%)
+2025-10-28 19:42:03,979 INFO Cooldown skip: reason='Detected: laptop', wait_global=4.1s
+2025-10-28 19:42:04,042 INFO Normal : mouse (70.4%)
+2025-10-28 19:42:04,906 INFO ANOMALY: person (54.2%)
+2025-10-28 19:42:04,907 INFO Cooldown skip: reason='Detected: person', wait_global=3.2s
+2025-10-28 19:42:05,503 INFO Normal : chair (90.5%)
+2025-10-28 19:42:05,571 INFO Normal : chair (89.0%)
+2025-10-28 19:42:05,640 INFO Normal : chair (75.7%)
+2025-10-28 19:42:05,703 INFO Normal : chair (96.5%)
+2025-10-28 19:42:05,772 INFO Normal : chair (90.4%)
+2025-10-28 19:42:05,972 INFO Normal : chair (96.7%)
+2025-10-28 19:42:06,035 INFO Normal : chair (70.6%)
+2025-10-28 19:42:06,036 INFO Normal : chair (88.0%)
+2025-10-28 19:42:06,105 INFO Normal : chair (94.3%)
+2025-10-28 19:42:06,169 INFO Normal : chair (94.3%)
+2025-10-28 19:42:06,237 INFO Normal : chair (96.8%)
+2025-10-28 19:42:06,305 INFO Normal : chair (92.7%)
+2025-10-28 19:42:06,305 INFO Normal : bottle (62.5%)
+2025-10-28 19:42:06,369 INFO Normal : chair (91.9%)
+2025-10-28 19:42:06,369 INFO Normal : bottle (63.9%)
+2025-10-28 19:42:06,435 INFO Normal : chair (94.4%)
+2025-10-28 19:42:06,436 INFO Normal : bottle (66.3%)
+2025-10-28 19:42:06,499 INFO Normal : chair (93.8%)
+2025-10-28 19:42:06,499 INFO Normal : bottle (66.4%)
+2025-10-28 19:42:06,569 INFO Normal : chair (94.6%)
+2025-10-28 19:42:06,633 INFO Normal : chair (97.5%)
+2025-10-28 19:42:06,701 INFO Normal : chair (97.0%)
+2025-10-28 19:42:06,769 INFO Normal : chair (51.0%)
+2025-10-28 19:42:06,770 INFO Normal : chair (95.6%)
+2025-10-28 19:42:06,833 INFO Normal : chair (97.3%)
+2025-10-28 19:42:06,901 INFO Normal : chair (96.6%)
+2025-10-28 19:42:06,965 INFO Normal : chair (97.3%)
+2025-10-28 19:42:06,965 INFO Normal : bottle (51.4%)
+2025-10-28 19:42:07,033 INFO Normal : chair (97.7%)
+2025-10-28 19:42:07,101 INFO Normal : chair (97.7%)
+2025-10-28 19:42:07,163 INFO Normal : chair (97.9%)
+2025-10-28 19:42:07,233 INFO Normal : chair (98.9%)
+2025-10-28 19:42:07,297 INFO Normal : chair (72.7%)
+2025-10-28 19:42:07,561 INFO Normal : chair (83.8%)
+2025-10-28 19:42:07,562 INFO Normal : chair (94.4%)
+2025-10-28 19:42:07,627 INFO Normal : chair (84.3%)
+2025-10-28 19:42:07,627 INFO Normal : chair (92.2%)
+2025-10-28 19:42:07,696 INFO Normal : chair (52.2%)
+2025-10-28 19:42:07,828 INFO Normal : chair (79.2%)
+2025-10-28 19:42:07,961 INFO Normal : chair (92.4%)
+2025-10-28 19:42:08,028 INFO Normal : chair (90.9%)
+2025-10-28 19:42:08,094 INFO Normal : chair (85.2%)
+2025-10-28 19:42:08,095 INFO Normal : chair (93.4%)
+2025-10-28 19:42:08,159 INFO Normal : chair (85.4%)
+2025-10-28 19:42:08,160 INFO Normal : chair (90.5%)
+2025-10-28 19:42:08,229 INFO Normal : chair (91.4%)
+2025-10-28 19:42:08,229 INFO Normal : chair (83.1%)
+2025-10-28 19:42:08,230 INFO Normal : chair (50.2%)
+2025-10-28 19:42:08,292 INFO Normal : chair (84.4%)
+2025-10-28 19:42:08,293 INFO Normal : chair (73.4%)
+2025-10-28 19:42:08,293 INFO Normal : chair (86.6%)
+2025-10-28 19:42:08,293 INFO Normal : chair (69.0%)
+2025-10-28 19:42:08,361 INFO Normal : chair (87.1%)
+2025-10-28 19:42:08,361 INFO Normal : chair (93.1%)
+2025-10-28 19:42:08,361 INFO Normal : chair (60.4%)
+2025-10-28 19:42:08,362 INFO Normal : chair (67.9%)
+2025-10-28 19:42:08,427 INFO Normal : chair (85.4%)
+2025-10-28 19:42:08,428 INFO Normal : chair (69.7%)
+2025-10-28 19:42:08,428 INFO Normal : chair (95.1%)
+2025-10-28 19:42:08,428 INFO Normal : chair (63.9%)
+2025-10-28 19:42:08,493 INFO Normal : chair (80.2%)
+2025-10-28 19:42:08,494 INFO Normal : chair (93.5%)
+2025-10-28 19:42:08,494 INFO Normal : chair (77.0%)
+2025-10-28 19:42:08,561 INFO Normal : chair (93.2%)
+2025-10-28 19:42:08,561 INFO Normal : chair (63.2%)
+2025-10-28 19:42:08,623 INFO Normal : chair (79.0%)
+2025-10-28 19:42:08,692 INFO Normal : chair (90.7%)
+2025-10-28 19:42:08,755 INFO Normal : chair (95.5%)
+2025-10-28 19:42:08,756 INFO Normal : chair (73.4%)
+2025-10-28 19:42:08,824 INFO Normal : chair (95.3%)
+2025-10-28 19:42:08,892 INFO Normal : chair (93.2%)
+2025-10-28 19:42:08,956 INFO Normal : chair (91.1%)
+2025-10-28 19:42:09,024 INFO Normal : chair (89.5%)
+2025-10-28 19:42:09,088 INFO Normal : chair (71.4%)
+2025-10-28 19:42:09,156 INFO Normal : chair (90.4%)
+2025-10-28 19:42:09,224 INFO Normal : chair (59.0%)
+2025-10-28 19:42:09,225 INFO Normal : chair (83.7%)
+2025-10-28 19:42:09,556 INFO Normal : bird (83.4%)
+2025-10-28 19:42:09,688 INFO Normal : bird (72.0%)
+2025-10-28 19:42:09,752 INFO Normal : bird (75.0%)
+2025-10-28 19:42:09,820 INFO Normal : bird (62.5%)
+2025-10-28 19:42:09,888 INFO Normal : bird (98.3%)
+2025-10-28 19:42:10,152 INFO Normal : bird (59.7%)
+2025-10-28 19:42:10,220 INFO Normal : bird (59.0%)
+2025-10-28 19:42:10,817 INFO ANOMALY: person (64.0%)
+2025-10-28 19:42:10,950 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194210.jpg
+2025-10-28 19:42:10,968 INFO ANOMALY: person (59.4%)
+2025-10-28 19:42:10,968 INFO Cooldown skip: reason='Detected: person', wait_global=9.8s
+2025-10-28 19:42:11,146 INFO ANOMALY: person (82.7%)
+2025-10-28 19:42:11,146 INFO Cooldown skip: reason='Detected: person', wait_global=9.7s
+2025-10-28 19:42:11,211 INFO ANOMALY: person (62.9%)
+2025-10-28 19:42:11,211 INFO Normal : mouse (53.3%)
+2025-10-28 19:42:11,211 INFO Cooldown skip: reason='Detected: person', wait_global=9.6s
+2025-10-28 19:42:11,278 INFO ANOMALY: person (61.4%)
+2025-10-28 19:42:11,278 INFO Cooldown skip: reason='Detected: person', wait_global=9.5s
+2025-10-28 19:42:11,346 INFO Normal : chair (63.3%)
+2025-10-28 19:42:11,413 INFO ANOMALY: person (54.5%)
+2025-10-28 19:42:11,413 INFO Cooldown skip: reason='Detected: person', wait_global=9.4s
+2025-10-28 19:42:11,479 INFO Normal : chair (52.6%)
+2025-10-28 19:42:11,545 INFO ANOMALY: person (56.2%)
+2025-10-28 19:42:11,545 INFO Cooldown skip: reason='Detected: person', wait_global=9.3s
+2025-10-28 19:42:11,613 INFO Normal : chair (53.9%)
+2025-10-28 19:42:11,681 INFO ANOMALY: person (70.3%)
+2025-10-28 19:42:11,682 INFO Normal : chair (51.6%)
+2025-10-28 19:42:11,682 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 19:42:11,745 INFO ANOMALY: person (71.1%)
+2025-10-28 19:42:11,745 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 19:42:11,813 INFO ANOMALY: person (58.2%)
+2025-10-28 19:42:11,814 INFO Cooldown skip: reason='Detected: person', wait_global=9.0s
+2025-10-28 19:42:11,877 INFO ANOMALY: person (52.3%)
+2025-10-28 19:42:11,877 INFO Cooldown skip: reason='Detected: person', wait_global=8.9s
+2025-10-28 19:42:11,945 INFO ANOMALY: person (58.1%)
+2025-10-28 19:42:11,945 INFO Cooldown skip: reason='Detected: person', wait_global=8.9s
+2025-10-28 19:42:12,013 INFO ANOMALY: person (59.4%)
+2025-10-28 19:42:12,013 INFO Cooldown skip: reason='Detected: person', wait_global=8.8s
+2025-10-28 19:42:12,077 INFO ANOMALY: person (52.7%)
+2025-10-28 19:42:12,077 INFO Cooldown skip: reason='Detected: person', wait_global=8.7s
+2025-10-28 19:42:12,211 INFO Normal : chair (66.1%)
+2025-10-28 19:42:12,277 INFO Normal : chair (50.2%)
+2025-10-28 19:42:12,344 INFO ANOMALY: person (67.7%)
+2025-10-28 19:42:12,344 INFO Cooldown skip: reason='Detected: person', wait_global=8.5s
+2025-10-28 19:42:12,410 INFO ANOMALY: person (59.0%)
+2025-10-28 19:42:12,411 INFO Cooldown skip: reason='Detected: person', wait_global=8.4s
+2025-10-28 19:42:12,542 INFO ANOMALY: person (61.6%)
+2025-10-28 19:42:12,543 INFO ANOMALY: person (56.8%)
+2025-10-28 19:42:12,543 INFO Cooldown skip: reason='Detected: person', wait_global=8.3s
+2025-10-28 19:42:12,609 INFO Normal : mouse (62.8%)
+2025-10-28 19:42:12,677 INFO Normal : cell phone (55.9%)
+2025-10-28 19:42:12,742 INFO Normal : mouse (81.3%)
+2025-10-28 19:42:12,808 INFO Normal : mouse (72.6%)
+2025-10-28 19:42:12,809 INFO Normal : mouse (80.2%)
+2025-10-28 19:42:14,001 INFO Normal : toothbrush (62.2%)
+2025-10-28 19:42:14,269 INFO Normal : remote (65.0%)
+2025-10-28 19:42:14,401 INFO Normal : surfboard (54.0%)
+2025-10-28 19:42:17,054 INFO ANOMALY: person (70.6%)
+2025-10-28 19:42:17,055 INFO Cooldown skip: reason='Detected: person', wait_global=3.8s
+2025-10-28 19:42:17,118 INFO ANOMALY: person (72.4%)
+2025-10-28 19:42:17,118 INFO Cooldown skip: reason='Detected: person', wait_global=3.7s
+2025-10-28 19:42:17,186 INFO ANOMALY: person (54.2%)
+2025-10-28 19:42:17,187 INFO Cooldown skip: reason='Detected: person', wait_global=3.6s
+2025-10-28 19:42:17,254 INFO ANOMALY: person (64.3%)
+2025-10-28 19:42:17,255 INFO Cooldown skip: reason='Detected: person', wait_global=3.6s
+2025-10-28 19:42:17,851 INFO Normal : dog (58.1%)
+2025-10-28 19:42:17,973 INFO Normal : dog (66.2%)
+2025-10-28 19:42:18,301 INFO Normal : dog (73.6%)
+2025-10-28 19:42:18,438 INFO Normal : cat (58.6%)
+2025-10-28 19:42:18,508 INFO Normal : cat (63.8%)
+2025-10-28 19:42:18,573 INFO Normal : car (68.8%)
+2025-10-28 19:42:18,573 INFO ANOMALY: person (58.7%)
+2025-10-28 19:42:18,573 INFO Cooldown skip: reason='Detected: person', wait_global=2.2s
+2025-10-28 19:42:18,604 INFO ANOMALY: person (62.5%)
+2025-10-28 19:42:18,605 INFO Normal : cat (70.4%)
+2025-10-28 19:42:18,605 INFO Cooldown skip: reason='Detected: person', wait_global=2.2s
+2025-10-28 19:42:18,639 INFO Normal : car (74.6%)
+2025-10-28 19:42:18,639 INFO ANOMALY: person (54.5%)
+2025-10-28 19:42:18,640 INFO Normal : cat (62.9%)
+2025-10-28 19:42:18,640 INFO Cooldown skip: reason='Detected: person', wait_global=2.2s
+2025-10-28 19:42:18,703 INFO Normal : car (60.3%)
+2025-10-28 19:42:18,771 INFO Normal : cat (59.6%)
+2025-10-28 19:42:18,969 INFO Normal : cat (52.1%)
+2025-10-28 19:42:19,079 INFO ANOMALY: person (50.6%)
+2025-10-28 19:42:19,079 INFO Cooldown skip: reason='Detected: person', wait_global=1.7s
+2025-10-28 19:42:19,111 INFO ANOMALY: person (54.3%)
+2025-10-28 19:42:19,111 INFO Cooldown skip: reason='Detected: person', wait_global=1.7s
+2025-10-28 19:42:19,178 INFO ANOMALY: person (58.3%)
+2025-10-28 19:42:19,179 INFO Cooldown skip: reason='Detected: person', wait_global=1.6s
+2025-10-28 19:42:19,263 INFO ANOMALY: person (54.7%)
+2025-10-28 19:42:19,263 INFO Cooldown skip: reason='Detected: person', wait_global=1.6s
+2025-10-28 19:42:19,398 INFO ANOMALY: person (67.4%)
+2025-10-28 19:42:19,399 INFO Cooldown skip: reason='Detected: person', wait_global=1.4s
+2025-10-28 19:42:19,462 INFO ANOMALY: person (62.9%)
+2025-10-28 19:42:19,463 INFO Cooldown skip: reason='Detected: person', wait_global=1.4s
+2025-10-28 19:42:19,530 INFO ANOMALY: person (70.8%)
+2025-10-28 19:42:19,531 INFO Cooldown skip: reason='Detected: person', wait_global=1.3s
+2025-10-28 19:42:19,599 INFO ANOMALY: person (63.2%)
+2025-10-28 19:42:19,599 INFO Cooldown skip: reason='Detected: person', wait_global=1.2s
+2025-10-28 19:42:19,660 INFO ANOMALY: person (67.9%)
+2025-10-28 19:42:19,661 INFO Cooldown skip: reason='Detected: person', wait_global=1.2s
+2025-10-28 19:42:19,794 INFO Normal : cat (55.7%)
+2025-10-28 19:42:19,930 INFO ANOMALY: person (87.5%)
+2025-10-28 19:42:19,931 INFO Cooldown skip: reason='Detected: person', wait_global=0.9s
+2025-10-28 19:42:19,994 INFO ANOMALY: person (85.5%)
+2025-10-28 19:42:19,995 INFO Cooldown skip: reason='Detected: person', wait_global=0.8s
+2025-10-28 19:42:20,062 INFO ANOMALY: person (86.2%)
+2025-10-28 19:42:20,063 INFO Cooldown skip: reason='Detected: person', wait_global=0.8s
+2025-10-28 19:42:20,126 INFO ANOMALY: person (81.6%)
+2025-10-28 19:42:20,127 INFO Cooldown skip: reason='Detected: person', wait_global=0.7s
+2025-10-28 19:42:20,194 INFO ANOMALY: person (87.3%)
+2025-10-28 19:42:20,195 INFO Cooldown skip: reason='Detected: person', wait_global=0.6s
+2025-10-28 19:42:20,262 INFO ANOMALY: person (91.6%)
+2025-10-28 19:42:20,263 INFO Cooldown skip: reason='Detected: person', wait_global=0.6s
+2025-10-28 19:42:20,327 INFO ANOMALY: person (90.9%)
+2025-10-28 19:42:20,327 INFO Cooldown skip: reason='Detected: person', wait_global=0.5s
+2025-10-28 19:42:20,394 INFO ANOMALY: person (93.6%)
+2025-10-28 19:42:20,395 INFO Cooldown skip: reason='Detected: person', wait_global=0.4s
+2025-10-28 19:42:20,458 INFO ANOMALY: person (93.8%)
+2025-10-28 19:42:20,459 INFO Cooldown skip: reason='Detected: person', wait_global=0.4s
+2025-10-28 19:42:20,526 INFO ANOMALY: person (93.7%)
+2025-10-28 19:42:20,527 INFO Cooldown skip: reason='Detected: person', wait_global=0.3s
+2025-10-28 19:42:20,595 INFO ANOMALY: person (95.1%)
+2025-10-28 19:42:20,595 INFO Cooldown skip: reason='Detected: person', wait_global=0.2s
+2025-10-28 19:42:20,658 INFO ANOMALY: person (94.8%)
+2025-10-28 19:42:20,659 INFO Cooldown skip: reason='Detected: person', wait_global=0.2s
+2025-10-28 19:42:20,727 INFO ANOMALY: person (93.2%)
+2025-10-28 19:42:20,727 INFO Cooldown skip: reason='Detected: person', wait_global=0.1s
+2025-10-28 19:42:20,791 INFO ANOMALY: person (90.4%)
+2025-10-28 19:42:20,791 INFO Cooldown skip: reason='Detected: person', wait_global=0.0s
+2025-10-28 19:42:20,859 INFO ANOMALY: person (93.5%)
+2025-10-28 19:42:20,996 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194220.jpg
+2025-10-28 19:42:21,008 INFO ANOMALY: person (93.2%)
+2025-10-28 19:42:21,008 INFO Cooldown skip: reason='Detected: person', wait_global=9.9s
+2025-10-28 19:42:21,058 INFO ANOMALY: person (91.8%)
+2025-10-28 19:42:21,059 INFO Cooldown skip: reason='Detected: person', wait_global=9.8s
+2025-10-28 19:42:21,120 INFO ANOMALY: person (90.0%)
+2025-10-28 19:42:21,121 INFO Cooldown skip: reason='Detected: person', wait_global=9.7s
+2025-10-28 19:42:21,191 INFO ANOMALY: person (93.3%)
+2025-10-28 19:42:21,191 INFO Cooldown skip: reason='Detected: person', wait_global=9.7s
+2025-10-28 19:42:21,258 INFO ANOMALY: person (93.2%)
+2025-10-28 19:42:21,259 INFO Cooldown skip: reason='Detected: person', wait_global=9.6s
+2025-10-28 19:42:21,322 INFO ANOMALY: person (94.3%)
+2025-10-28 19:42:21,323 INFO Cooldown skip: reason='Detected: person', wait_global=9.5s
+2025-10-28 19:42:21,390 INFO ANOMALY: person (93.0%)
+2025-10-28 19:42:21,391 INFO Cooldown skip: reason='Detected: person', wait_global=9.5s
+2025-10-28 19:42:21,454 INFO ANOMALY: person (93.2%)
+2025-10-28 19:42:21,455 INFO Cooldown skip: reason='Detected: person', wait_global=9.4s
+2025-10-28 19:42:21,522 INFO ANOMALY: person (90.8%)
+2025-10-28 19:42:21,523 INFO Cooldown skip: reason='Detected: person', wait_global=9.3s
+2025-10-28 19:42:21,586 INFO ANOMALY: person (91.6%)
+2025-10-28 19:42:21,586 INFO Cooldown skip: reason='Detected: person', wait_global=9.3s
+2025-10-28 19:42:21,654 INFO ANOMALY: person (93.0%)
+2025-10-28 19:42:21,655 INFO Cooldown skip: reason='Detected: person', wait_global=9.2s
+2025-10-28 19:42:21,722 INFO ANOMALY: person (94.2%)
+2025-10-28 19:42:21,722 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 19:42:21,786 INFO ANOMALY: person (91.3%)
+2025-10-28 19:42:21,787 INFO Cooldown skip: reason='Detected: person', wait_global=9.1s
+2025-10-28 19:42:21,854 INFO ANOMALY: person (90.6%)
+2025-10-28 19:42:21,855 INFO Cooldown skip: reason='Detected: person', wait_global=9.0s
+2025-10-28 19:42:21,918 INFO ANOMALY: person (92.7%)
+2025-10-28 19:42:21,919 INFO Cooldown skip: reason='Detected: person', wait_global=8.9s
+2025-10-28 19:42:21,986 INFO ANOMALY: person (89.1%)
+2025-10-28 19:42:21,987 INFO Cooldown skip: reason='Detected: person', wait_global=8.9s
+2025-10-28 19:42:22,054 INFO ANOMALY: person (92.9%)
+2025-10-28 19:42:22,055 INFO Cooldown skip: reason='Detected: person', wait_global=8.8s
+2025-10-28 19:42:22,118 INFO ANOMALY: person (91.9%)
+2025-10-28 19:42:22,119 INFO Cooldown skip: reason='Detected: person', wait_global=8.7s
+2025-10-28 19:42:22,186 INFO ANOMALY: person (94.0%)
+2025-10-28 19:42:22,187 INFO Cooldown skip: reason='Detected: person', wait_global=8.7s
+2025-10-28 19:42:22,250 INFO ANOMALY: person (93.4%)
+2025-10-28 19:42:22,251 INFO Cooldown skip: reason='Detected: person', wait_global=8.6s
+2025-10-28 19:42:22,318 INFO ANOMALY: person (92.9%)
+2025-10-28 19:42:22,319 INFO Cooldown skip: reason='Detected: person', wait_global=8.5s
+2025-10-28 19:42:22,386 INFO ANOMALY: person (75.0%)
+2025-10-28 19:42:22,386 INFO Cooldown skip: reason='Detected: person', wait_global=8.5s
+2025-10-28 19:42:22,450 INFO ANOMALY: person (54.1%)
+2025-10-28 19:42:22,450 INFO Normal : cat (50.4%)
+2025-10-28 19:42:22,451 INFO Cooldown skip: reason='Detected: person', wait_global=8.4s
+2025-10-28 19:42:22,983 INFO ANOMALY: person (54.9%)
+2025-10-28 19:42:22,984 INFO Cooldown skip: reason='Detected: person', wait_global=7.9s
+2025-10-28 19:42:23,115 INFO Normal : book (55.9%)
+2025-10-28 19:42:23,183 INFO Normal : book (59.9%)
+2025-10-28 19:42:23,779 INFO ANOMALY: laptop (74.3%)
+2025-10-28 19:42:23,779 INFO Cooldown skip: reason='Detected: laptop', wait_global=7.1s
+2025-10-28 19:42:24,306 INFO Normal : bed (95.0%)
+2025-10-28 19:42:24,343 INFO Normal : bed (91.0%)
+2025-10-28 19:42:24,467 INFO Normal : tv (67.7%)
+2025-10-28 19:42:24,597 INFO Normal : tv (75.1%)
+2025-10-28 19:42:24,678 INFO ANOMALY: laptop (85.4%)
+2025-10-28 19:42:24,679 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.2s
+2025-10-28 19:42:24,760 INFO ANOMALY: laptop (75.0%)
+2025-10-28 19:42:24,760 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.1s
+2025-10-28 19:42:24,806 INFO Normal : book (52.4%)
+2025-10-28 19:42:24,844 INFO ANOMALY: laptop (55.4%)
+2025-10-28 19:42:24,844 INFO Normal : book (67.9%)
+2025-10-28 19:42:24,844 INFO Cooldown skip: reason='Detected: laptop', wait_global=6.0s
+2025-10-28 19:42:24,884 INFO Normal : tv (90.1%)
+2025-10-28 19:42:24,930 INFO ANOMALY: laptop (75.2%)
+2025-10-28 19:42:24,931 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.9s
+2025-10-28 19:42:24,970 INFO Normal : tv (79.9%)
+2025-10-28 19:42:25,009 INFO Normal : tv (95.6%)
+2025-10-28 19:42:25,055 INFO ANOMALY: laptop (68.3%)
+2025-10-28 19:42:25,055 INFO Cooldown skip: reason='Detected: laptop', wait_global=5.8s
+2025-10-28 19:42:25,132 INFO Normal : book (51.3%)
+2025-10-28 19:42:25,381 INFO Normal : book (54.4%)
+2025-10-28 19:42:25,507 INFO Normal : keyboard (89.3%)
+2025-10-28 19:42:25,550 INFO Normal : keyboard (93.4%)
+2025-10-28 19:42:25,723 INFO Normal : bed (52.2%)
+2025-10-28 19:42:25,856 INFO Normal : keyboard (74.3%)
+2025-10-28 19:42:25,924 INFO Normal : keyboard (84.4%)
+2025-10-28 19:42:25,988 INFO Normal : keyboard (84.0%)
+2025-10-28 19:42:25,989 INFO Normal : mouse (60.9%)
+2025-10-28 19:42:26,057 INFO Normal : keyboard (77.8%)
+2025-10-28 19:42:26,121 INFO Normal : keyboard (78.9%)
+2025-10-28 19:42:26,121 INFO Normal : chair (50.8%)
+2025-10-28 19:42:26,121 INFO Normal : mouse (53.6%)
+2025-10-28 19:42:26,189 INFO Normal : keyboard (87.1%)
+2025-10-28 19:42:26,189 INFO Normal : mouse (79.2%)
+2025-10-28 19:42:26,257 INFO Normal : bed (52.8%)
+2025-10-28 19:42:26,257 INFO Normal : keyboard (85.3%)
+2025-10-28 19:42:26,257 INFO ANOMALY: person (54.0%)
+2025-10-28 19:42:26,257 INFO ANOMALY: person (75.2%)
+2025-10-28 19:42:26,257 INFO Cooldown skip: reason='Detected: person', wait_global=4.6s
+2025-10-28 19:42:26,321 INFO ANOMALY: person (76.2%)
+2025-10-28 19:42:26,321 INFO Cooldown skip: reason='Detected: person', wait_global=4.5s
+2025-10-28 19:42:26,452 INFO Normal : cat (56.1%)
+2025-10-28 19:42:26,652 INFO ANOMALY: person (64.1%)
+2025-10-28 19:42:26,652 INFO Cooldown skip: reason='Detected: person', wait_global=4.2s
+2025-10-28 19:42:26,852 INFO ANOMALY: person (52.0%)
+2025-10-28 19:42:26,852 INFO Cooldown skip: reason='Detected: person', wait_global=4.0s
+2025-10-28 19:42:26,920 INFO ANOMALY: person (67.7%)
+2025-10-28 19:42:26,921 INFO Cooldown skip: reason='Detected: person', wait_global=3.9s
+2025-10-28 19:42:26,984 INFO ANOMALY: laptop (78.6%)
+2025-10-28 19:42:26,984 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.9s
+2025-10-28 19:42:27,053 INFO ANOMALY: laptop (81.7%)
+2025-10-28 19:42:27,053 INFO Normal : sports ball (52.6%)
+2025-10-28 19:42:27,053 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.8s
+2025-10-28 19:42:27,116 INFO ANOMALY: laptop (64.0%)
+2025-10-28 19:42:27,116 INFO Cooldown skip: reason='Detected: laptop', wait_global=3.7s
+2025-10-28 19:42:27,779 INFO ANOMALY: person (66.7%)
+2025-10-28 19:42:27,780 INFO Cooldown skip: reason='Detected: person', wait_global=3.1s
+2025-10-28 19:42:27,912 INFO ANOMALY: laptop (54.1%)
+2025-10-28 19:42:27,912 INFO Cooldown skip: reason='Detected: laptop', wait_global=2.9s
+2025-10-28 19:42:28,380 INFO Normal : toothbrush (61.7%)
+2025-10-28 19:42:28,575 INFO Normal : vase (75.4%)
+2025-10-28 19:42:28,643 INFO Normal : vase (90.7%)
+2025-10-28 19:42:28,711 INFO Normal : vase (93.8%)
+2025-10-28 19:42:28,776 INFO ANOMALY: person (65.8%)
+2025-10-28 19:42:28,777 INFO Cooldown skip: reason='Detected: person', wait_global=2.1s
+2025-10-28 19:42:28,844 INFO ANOMALY: person (64.7%)
+2025-10-28 19:42:28,844 INFO Cooldown skip: reason='Detected: person', wait_global=2.0s
+2025-10-28 19:42:28,907 INFO ANOMALY: person (69.1%)
+2025-10-28 19:42:28,908 INFO Cooldown skip: reason='Detected: person', wait_global=2.0s
+2025-10-28 19:42:28,976 INFO ANOMALY: person (79.7%)
+2025-10-28 19:42:28,976 INFO Normal : keyboard (53.9%)
+2025-10-28 19:42:28,976 INFO Cooldown skip: reason='Detected: person', wait_global=1.9s
+2025-10-28 19:42:29,044 INFO ANOMALY: person (81.9%)
+2025-10-28 19:42:29,045 INFO Normal : keyboard (67.1%)
+2025-10-28 19:42:29,045 INFO Cooldown skip: reason='Detected: person', wait_global=1.8s
+2025-10-28 19:42:29,108 INFO ANOMALY: person (81.5%)
+2025-10-28 19:42:29,109 INFO Normal : keyboard (72.5%)
+2025-10-28 19:42:29,109 INFO Cooldown skip: reason='Detected: person', wait_global=1.8s
+2025-10-28 19:42:29,176 INFO ANOMALY: person (82.8%)
+2025-10-28 19:42:29,177 INFO Normal : keyboard (75.7%)
+2025-10-28 19:42:29,177 INFO Cooldown skip: reason='Detected: person', wait_global=1.7s
+2025-10-28 19:42:29,240 INFO ANOMALY: person (73.5%)
+2025-10-28 19:42:29,241 INFO Normal : keyboard (64.1%)
+2025-10-28 19:42:29,241 INFO Cooldown skip: reason='Detected: person', wait_global=1.6s
+2025-10-28 19:42:29,308 INFO ANOMALY: person (74.7%)
+2025-10-28 19:42:29,309 INFO Normal : keyboard (55.1%)
+2025-10-28 19:42:29,309 INFO Cooldown skip: reason='Detected: person', wait_global=1.6s
+2025-10-28 19:42:29,376 INFO ANOMALY: person (70.2%)
+2025-10-28 19:42:29,377 INFO Cooldown skip: reason='Detected: person', wait_global=1.5s
+2025-10-28 19:42:29,440 INFO ANOMALY: person (73.0%)
+2025-10-28 19:42:29,440 INFO Cooldown skip: reason='Detected: person', wait_global=1.4s
+2025-10-28 19:42:29,508 INFO ANOMALY: person (65.5%)
+2025-10-28 19:42:29,508 INFO Normal : keyboard (57.5%)
+2025-10-28 19:42:29,509 INFO Cooldown skip: reason='Detected: person', wait_global=1.4s
+2025-10-28 19:42:29,572 INFO ANOMALY: person (79.6%)
+2025-10-28 19:42:29,572 INFO Normal : keyboard (58.2%)
+2025-10-28 19:42:29,572 INFO Cooldown skip: reason='Detected: person', wait_global=1.3s
+2025-10-28 19:42:29,640 INFO Normal : bird (57.5%)
+2025-10-28 19:42:29,641 INFO ANOMALY: person (55.7%)
+2025-10-28 19:42:29,641 INFO Normal : keyboard (53.8%)
+2025-10-28 19:42:29,641 INFO Cooldown skip: reason='Detected: person', wait_global=1.2s
+2025-10-28 19:42:29,708 INFO ANOMALY: person (75.5%)
+2025-10-28 19:42:29,708 INFO Cooldown skip: reason='Detected: person', wait_global=1.2s
+2025-10-28 19:42:29,772 INFO ANOMALY: person (80.0%)
+2025-10-28 19:42:29,772 INFO Normal : keyboard (54.2%)
+2025-10-28 19:42:29,772 INFO Cooldown skip: reason='Detected: person', wait_global=1.1s
+2025-10-28 19:42:29,840 INFO ANOMALY: person (79.2%)
+2025-10-28 19:42:29,840 INFO Cooldown skip: reason='Detected: person', wait_global=1.0s
+2025-10-28 19:42:29,904 INFO Normal : bird (88.6%)
+2025-10-28 19:42:29,972 INFO Normal : vase (65.1%)
+2025-10-28 19:42:30,040 INFO ANOMALY: person (60.7%)
+2025-10-28 19:42:30,041 INFO Cooldown skip: reason='Detected: person', wait_global=0.8s
+2025-10-28 19:42:30,104 INFO Normal : bird (87.8%)
+2025-10-28 19:42:30,172 INFO Normal : bird (90.5%)
+2025-10-28 19:42:30,237 INFO Normal : bird (67.5%)
+2025-10-28 19:42:30,368 INFO Normal : bird (71.2%)
+2025-10-28 19:42:30,436 INFO Normal : bird (72.3%)
+2025-10-28 19:42:30,505 INFO Normal : bird (58.5%)
+2025-10-28 19:42:31,231 INFO Normal : keyboard (57.8%)
+2025-10-28 19:42:31,300 INFO Normal : keyboard (93.7%)
+2025-10-28 19:42:31,364 INFO Normal : keyboard (71.7%)
+2025-10-28 19:42:31,432 INFO Normal : keyboard (87.1%)
+2025-10-28 19:42:31,432 INFO ANOMALY: laptop (53.6%)
+2025-10-28 19:42:31,567 INFO Saved snapshot: /jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194231.jpg
+2025-10-28 19:42:31,581 INFO Normal : keyboard (94.0%)
+2025-10-28 19:42:31,638 INFO Normal : keyboard (93.8%)
+2025-10-28 19:42:31,696 INFO Normal : keyboard (93.7%)
+2025-10-28 19:42:31,765 INFO Normal : keyboard (94.1%)
+2025-10-28 19:42:31,833 INFO Normal : keyboard (94.5%)
+2025-10-28 19:42:31,896 INFO Normal : keyboard (90.8%)
+2025-10-28 19:42:31,963 INFO Normal : keyboard (91.3%)
+2025-10-28 19:42:32,027 INFO Normal : keyboard (75.3%)
+2025-10-28 19:42:32,096 INFO Normal : keyboard (78.5%)
+2025-10-28 19:42:32,165 INFO Normal : keyboard (78.5%)
+2025-10-28 19:42:32,228 INFO Normal : keyboard (78.6%)
+2025-10-28 19:42:32,297 INFO Normal : keyboard (78.5%)
+2025-10-28 19:42:32,360 INFO Normal : keyboard (81.8%)
+2025-10-28 19:42:32,428 INFO Normal : keyboard (81.9%)
+2025-10-28 19:42:32,430 INFO Exit: output closed

@@ -1,0 +1,12 @@
+timestamp,reason,labels,counts,snapshot
+2025-10-28 08:43:11,Detected: laptop,keyboard;laptop,keyboard:1;laptop:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084311.jpg
+2025-10-28 08:43:25,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084325.jpg
+2025-10-28 08:43:35,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084335.jpg
+2025-10-28 08:43:45,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084345.jpg
+2025-10-28 08:43:56,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_084356.jpg
+2025-10-28 19:41:35,Detected: laptop,knife;laptop,knife:1;laptop:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194135.jpg
+2025-10-28 19:41:48,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194147.jpg
+2025-10-28 19:41:58,Detected: laptop,laptop,laptop:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194158.jpg
+2025-10-28 19:42:10,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194210.jpg
+2025-10-28 19:42:20,Detected: person,person,person:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194220.jpg
+2025-10-28 19:42:31,Detected: laptop,keyboard;laptop,keyboard:1;laptop:1,/jetson-inference/data/assignment/anomaly_images_delay/anomaly_20251028_194231.jpg
